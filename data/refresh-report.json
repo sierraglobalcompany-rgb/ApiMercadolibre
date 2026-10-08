@@ -1,0 +1,1440 @@
+{
+  "checked_at": "2026-10-08T23:54:26.795680+00:00",
+  "manifest_path": "data/manifest.json",
+  "counts": {
+    "unchanged": 203,
+    "changed": 0,
+    "new": 0,
+    "unavailable": 0,
+    "capture_mismatch": 0
+  },
+  "pages": {
+    "unchanged": [
+      {
+        "id": "developer-partner-program",
+        "title": "Developer Partner Program",
+        "url": "https://developers.mercadolibre.com.co/es_co/developer-partner-program",
+        "status": "captured",
+        "sha256": "6d5c78680d3c7227f77f14723dd3490ccb59109ca9642a29b05844aa96057306"
+      },
+      {
+        "id": "seguridad-desarrollo-seguro",
+        "title": "Seguridad - Desarrollo Seguro",
+        "url": "https://developers.mercadolibre.com.co/es_co/seguridad-desarrollo-seguro",
+        "status": "captured",
+        "sha256": "e87ad33d8be02c46c35c4ff797016dc16871dd921597a10668e2eec992b0d03d"
+      },
+      {
+        "id": "facturacion-billing-info",
+        "title": "Facturación / Billing info",
+        "url": "https://developers.mercadolibre.com.co/es_co/facturacion-billing-info",
+        "status": "captured",
+        "sha256": "d4f73eed012113dcf8d569e3f2553cb1813ec2044586fedbb61eb44bd6e1141b"
+      },
+      {
+        "id": "stock-multiwarehouse",
+        "title": "Gestión de stock multiorigen / User Products",
+        "url": "https://developers.mercadolibre.com.co/es_co/stock-multiwarehouse",
+        "status": "captured",
+        "sha256": "53f135d6f36c5570cce15be3cc43a88135ecf33988d9e579d160591814f57ee2"
+      },
+      {
+        "id": "imagenes-y-moderaciones",
+        "title": "Imágenes y moderaciones",
+        "url": "https://developers.mercadolibre.com.co/es_co/imagenes-y-moderaciones",
+        "status": "captured",
+        "sha256": "b0c46620b08b61db4c5799bc38484c9b4281d9d9b412ea965b9d1a0482b7d593"
+      },
+      {
+        "id": "items-atributos-de-envio-y-dimensiones",
+        "title": "Items - Atributos de envío y dimensiones",
+        "url": "https://developers.mercadolibre.com.co/es_co/items-atributos-de-envio-y-dimensiones",
+        "status": "captured",
+        "sha256": "e25db18051101fc92e0bd1a33bbfbdff18a7db4d23a248fbba16bc148b735410"
+      },
+      {
+        "id": "me1-me2-y-envio-gratis",
+        "title": "ME1 / ME2 y envío gratis",
+        "url": "https://developers.mercadolibre.com.co/es_co/me1-me2-y-envio-gratis",
+        "status": "captured",
+        "sha256": "45e21fce635e65ae6bf2ffe32dba92857010e5e462812b3e384b65fa3542cfb5"
+      },
+      {
+        "id": "mercado-envios-costos-y-cotizaciones",
+        "title": "Mercado Envíos - Costos y cotizaciones",
+        "url": "https://developers.mercadolibre.com.co/es_co/mercado-envios-costos-y-cotizaciones",
+        "status": "captured",
+        "sha256": "eee30a04c324bf6059e5515c525f3395b430583e6c91256616ab6faa246bf057"
+      },
+      {
+        "id": "faq-preguntas-frecuentes",
+        "title": "Preguntas Frecuentes",
+        "url": "https://developers.mercadolibre.com.co/es_co/faq-preguntas-frecuentes",
+        "status": "captured",
+        "sha256": "23cdac50cb588b0fe0f344ec73ac984cc1b5876d4c3b69d0a47a5c30e5f31c49"
+      },
+      {
+        "id": "promotions-pricing",
+        "title": "Promotions / Pricing",
+        "url": "https://developers.mercadolibre.com.co/es_co/promotions-pricing",
+        "status": "captured",
+        "sha256": "6b25fd34361be284d01611b811548582009f8b977a0bde69d400d25491d66638"
+      },
+      {
+        "id": "rate-limit-error-429",
+        "title": "Rate Limit / Error 429",
+        "url": "https://developers.mercadolibre.com.co/es_co/rate-limit-error-429",
+        "status": "captured",
+        "sha256": "6b25428cdcd8ed5c3c458ffd3a9c03236c217fe0fd3a83483daf26490b3583cb"
+      },
+      {
+        "id": "autenticacion-segura",
+        "title": "Autenticación segura",
+        "url": "https://developers.mercadolibre.com.co/es_co/autenticacion-segura",
+        "status": "captured",
+        "sha256": "0f1fba4ab939f41ec34479a1a86f85e7b403d79d3b2e39165b391d9a9a7f421f"
+      },
+      {
+        "id": "control-de-acceso-y-autorizacion",
+        "title": "Control de acceso y autorización",
+        "url": "https://developers.mercadolibre.com.co/es_co/control-de-acceso-y-autorizacion",
+        "status": "captured",
+        "sha256": "d166908db7edfc1424177a7030c12dae93d5e12e8f3524a921a9a1009f6163af"
+      },
+      {
+        "id": "gestion-de-identidades-y-accesos-oauth-y-tokens",
+        "title": "Gestión de Identidades y Accesos (OAuth y Tokens)",
+        "url": "https://developers.mercadolibre.com.co/es_co/gestion-de-identidades-y-accesos-oauth-y-tokens",
+        "status": "captured",
+        "sha256": "ef15d728a4847f45125c7154e572696b371064838b596bbc32d4879770cc308b"
+      },
+      {
+        "id": "gestion-de-incidentes",
+        "title": "Gestión de inicidentes",
+        "url": "https://developers.mercadolibre.com.co/es_co/gestion-de-incidentes",
+        "status": "captured",
+        "sha256": "c54a885824399587d66220b39a66203cfeca967d70e419b09a20d444ab963401"
+      },
+      {
+        "id": "infraestructura",
+        "title": "Infraestructura (Cifrado y TLS)",
+        "url": "https://developers.mercadolibre.com.co/es_co/infraestructura",
+        "status": "captured",
+        "sha256": "8da140e93fb893c78909a42d894386ad2ebb77bbdcc64a6c54f43b02062fc225"
+      },
+      {
+        "id": "introduccion-seguridad",
+        "title": "Introducción",
+        "url": "https://developers.mercadolibre.com.co/es_co/introduccion-seguridad",
+        "status": "captured",
+        "sha256": "b69e52fd1fd0d80f740c4611d93bb5235a0358115e002863b0ddd09517845fc9"
+      },
+      {
+        "id": "monitoreo",
+        "title": "Monitoreo",
+        "url": "https://developers.mercadolibre.com.co/es_co/monitoreo",
+        "status": "captured",
+        "sha256": "1bd435ddb36b3a0dcf0a5144f014f618c836cd5e19ba8851f33d72cadf609228"
+      },
+      {
+        "id": "seguridad-apps",
+        "title": "Seguridad de aplicaciones",
+        "url": "https://developers.mercadolibre.com.co/es_co/seguridad-apps",
+        "status": "captured",
+        "sha256": "acb0d5eedfb36a0234bc761fca680b6f0cf71e3cc3733d9641d833762bd54c5f"
+      },
+      {
+        "id": "actualiza-tus-publicaciones",
+        "title": "Actualiza tus publicaciones",
+        "url": "https://developers.mercadolibre.com.co/es_co/actualiza-tus-publicaciones",
+        "status": "captured",
+        "sha256": "ed573033af387aadd717d68c418d27d880a95a3932cad938154771bae83b702a"
+      },
+      {
+        "id": "actualizacion-variacion-inmuebles",
+        "title": "Actualización variación inmuebles",
+        "url": "https://developers.mercadolibre.com.co/es_co/actualizacion-variacion-inmuebles",
+        "status": "captured",
+        "sha256": "d773a78afa2a28287d537c5a234ded0fae3d55964187fe68b426f7bcc472ed65"
+      },
+      {
+        "id": "atributos-inmuebles",
+        "title": "Atributos",
+        "url": "https://developers.mercadolibre.com.co/es_co/atributos-inmuebles",
+        "status": "captured",
+        "sha256": "4fb1dd26f7916df49f0ab69c07cd19db1bd49343ed3009e642451fa447c74787"
+      },
+      {
+        "id": "calidad-de-las-publicaciones-inmuebles",
+        "title": "Calidad de las Publicaciones",
+        "url": "https://developers.mercadolibre.com.co/es_co/calidad-de-las-publicaciones-inmuebles",
+        "status": "captured",
+        "sha256": "449a5a6f7814f2b7d2f97ce09e7aa169152fe51f6f9c76f9eafea43da681de08"
+      },
+      {
+        "id": "categorias-inmuebles",
+        "title": "Categorías",
+        "url": "https://developers.mercadolibre.com.co/es_co/categorias-inmuebles",
+        "status": "captured",
+        "sha256": "dcad0aef3f54e8ff0da7cef4ab5499c671d00e248326d0c686de22df703c0107"
+      },
+      {
+        "id": "categorias-atributos-inmuebles",
+        "title": "Categorías y atributos",
+        "url": "https://developers.mercadolibre.com.co/es_co/categorias-atributos-inmuebles",
+        "status": "captured",
+        "sha256": "19abd59ac3154d0b7cb750d62c85f8906e2ea6c26be73d45e16cb4f3acee3b2c"
+      },
+      {
+        "id": "ciclo-de-vida-de-las-publicaciones-de-inmuebles",
+        "title": "Ciclo de vida de las publicaciones de Inmuebles",
+        "url": "https://developers.mercadolibre.com.co/es_co/ciclo-de-vida-de-las-publicaciones-de-inmuebles",
+        "status": "captured",
+        "sha256": "6c77be5c4dac50a28b5e9fe6b0b3c66fe859b89fdc15e4702d8852038611ef66"
+      },
+      {
+        "id": "configuracion-o-requisitos-previos",
+        "title": "Configuración o requisitos previos",
+        "url": "https://developers.mercadolibre.com.co/es_co/configuracion-o-requisitos-previos",
+        "status": "captured",
+        "sha256": "0807ae45cf9523e21819f623368f6aaae2df6b19be717bc3c89ffa7fc5f6d677"
+      },
+      {
+        "id": "consulta-de-usuarios",
+        "title": "Consulta de usuarios",
+        "url": "https://developers.mercadolibre.com.co/es_co/consulta-de-usuarios",
+        "status": "captured",
+        "sha256": "0e94603f3e69e9ea4ea5c06c6f4af479d511b294f4004a9deb61cb01566d287d"
+      },
+      {
+        "id": "contratacion-de-paquetes-de-publicacion",
+        "title": "Contratación de paquetes de publicación",
+        "url": "https://developers.mercadolibre.com.co/es_co/contratacion-de-paquetes-de-publicacion",
+        "status": "captured",
+        "sha256": "25d48a8e3b1e01d470cfc2e7d50b8f549a4a9659132a13f6c9964ee3c36a51c6"
+      },
+      {
+        "id": "desarrollos-inmobiliarios",
+        "title": "Desarrollos inmobiliarios",
+        "url": "https://developers.mercadolibre.com.co/es_co/desarrollos-inmobiliarios",
+        "status": "captured",
+        "sha256": "45b0a2252bc5ee86753c70487e8bead2e9ed54f3c0b26f69dac07017346d078a"
+      },
+      {
+        "id": "estadisticas-de-interacciones-en-inmuebles",
+        "title": "Estadísticas de interacciones en Inmuebles",
+        "url": "https://developers.mercadolibre.com.co/es_co/estadisticas-de-interacciones-en-inmuebles",
+        "status": "captured",
+        "sha256": "7898e36872799d7e9bcde98dfe0c139a4aafd3d999e356bef7f88714f281b378"
+      },
+      {
+        "id": "experiencia-para-inmuebles",
+        "title": "Experiencia para inmuebles",
+        "url": "https://developers.mercadolibre.com.co/es_co/experiencia-para-inmuebles",
+        "status": "captured",
+        "sha256": "fd6d962bea467e0098fa5d723efee44f74ffa8ba3f32d9d4b2ffcd17466bf568"
+      },
+      {
+        "id": "gestionar-paquetes-de-inmuebles",
+        "title": "Gestionar paquetes de inmuebles",
+        "url": "https://developers.mercadolibre.com.co/es_co/gestionar-paquetes-de-inmuebles",
+        "status": "captured",
+        "sha256": "03d3ca4abb2946bc682b65327c65322a366d8ed9d5ba52b733265000ad1f2c88"
+      },
+      {
+        "id": "glosario-inmuebles",
+        "title": "Glosario",
+        "url": "https://developers.mercadolibre.com.co/es_co/glosario-inmuebles",
+        "status": "captured",
+        "sha256": "82bc44accab002b30d928c3c31dfc9603d9a3dc6a2dc2f79786b7d781fd6a3b2"
+      },
+      {
+        "id": "introduccion-guia-de-inmuebles",
+        "title": "Introducción guía de inmuebles",
+        "url": "https://developers.mercadolibre.com.co/es_co/introduccion-guia-de-inmuebles",
+        "status": "captured",
+        "sha256": "8cafb8898b9eb259349e51a277b62d650f7dd39b6887eb39f0e75ee9ebcfd263"
+      },
+      {
+        "id": "leads-inmuebles",
+        "title": "Leads",
+        "url": "https://developers.mercadolibre.com.co/es_co/leads-inmuebles",
+        "status": "captured",
+        "sha256": "90ac715da9ef469e32af27189589329a8250011a8da933cf5a3da9fb26cd9bb9"
+      },
+      {
+        "id": "localizar-inmuebles",
+        "title": "Localizar Inmuebles",
+        "url": "https://developers.mercadolibre.com.co/es_co/localizar-inmuebles",
+        "status": "captured",
+        "sha256": "4a9da6eb3f59642a6ccda91a0f18fe6600e8b8a0f104c70d88a0d2c671e54e4a"
+      },
+      {
+        "id": "obtencion-del-access-token",
+        "title": "Obtención del Access Token",
+        "url": "https://developers.mercadolibre.com.co/es_co/obtencion-del-access-token",
+        "status": "captured",
+        "sha256": "d478066d7b6f5818d23aa7e8796796785b8cfe20d53019aa55bf2f244a80af3e"
+      },
+      {
+        "id": "paquetes-y-permisos-para-proyectos-desarrollos-o-emprendimientos-inmobiliarios",
+        "title": "Paquetes y permisos para proyectos, desarrollos o emprendimientos inmobiliarios",
+        "url": "https://developers.mercadolibre.com.co/es_co/paquetes-y-permisos-para-proyectos-desarrollos-o-emprendimientos-inmobiliarios",
+        "status": "captured",
+        "sha256": "fe7ee1df3b194924cd9c5b3dec57c5b355a1feb7d29a90b97216d80acbd089d7"
+      },
+      {
+        "id": "pasos-rapidos-para-publicar-un-inmueble-de-prueba",
+        "title": "Pasos rápidos para publicar un inmueble de prueba",
+        "url": "https://developers.mercadolibre.com.co/es_co/pasos-rapidos-para-publicar-un-inmueble-de-prueba",
+        "status": "captured",
+        "sha256": "a15d79fa35c95ccebbbfb9eaac060d3f4a7cd4c7c9bf0fac865c3ef95252f80f"
+      },
+      {
+        "id": "primeros-pasos-inmuebles",
+        "title": "Primeros pasos",
+        "url": "https://developers.mercadolibre.com.co/es_co/primeros-pasos-inmuebles",
+        "status": "captured",
+        "sha256": "3515535a3efd3f384e6392815f22d4188f070d8fb714c27cbaec62f0590edddb"
+      },
+      {
+        "id": "publica-inmueble",
+        "title": "Publica Inmuebles",
+        "url": "https://developers.mercadolibre.com.co/es_co/publica-inmueble",
+        "status": "captured",
+        "sha256": "bddabc7b1c8c3143d9b9c8e7f743e8718a13b06987e4b563c67b61b6911ad067"
+      },
+      {
+        "id": "publicaciones-de-tiendas-oficiales-para-inmuebles",
+        "title": "Publicaciones de Tiendas Oficiales para Inmuebles",
+        "url": "https://developers.mercadolibre.com.co/es_co/publicaciones-de-tiendas-oficiales-para-inmuebles",
+        "status": "captured",
+        "sha256": "552d3e5687f270864332104bd474f23a870538e3491f5a0af4b7a4e61bc06811"
+      },
+      {
+        "id": "solicitud-de-visita",
+        "title": "Solicitud de visita",
+        "url": "https://developers.mercadolibre.com.co/es_co/solicitud-de-visita",
+        "status": "captured",
+        "sha256": "d58a94954242e455352efe419fdfdb82d638e0ecc884b3d76314b12f951fd290"
+      },
+      {
+        "id": "variaciones-para-inmuebles",
+        "title": "Variaciones",
+        "url": "https://developers.mercadolibre.com.co/es_co/variaciones-para-inmuebles",
+        "status": "captured",
+        "sha256": "652ecc66cc8f67d3777cff91f43beb19fcdc59b584be4f2304228b60f6dca25a"
+      },
+      {
+        "id": "bonificaciones-para-product-ads",
+        "title": "Bonificaciones para Product Ads",
+        "url": "https://developers.mercadolibre.com.co/es_co/bonificaciones-para-product-ads",
+        "status": "captured",
+        "sha256": "7909a0fd9b7d104471767fa7cfd7f58a90ca0e8be1e8a282045db77d5ba8f24f"
+      },
+      {
+        "id": "ads-bads",
+        "title": "Brand Ads",
+        "url": "https://developers.mercadolibre.com.co/es_co/ads-bads",
+        "status": "captured",
+        "sha256": "eaf7e214badcb27c392cc03054b5c5204bba08c19c66a4fb1db777be3fa82eb8"
+      },
+      {
+        "id": "display",
+        "title": "Display Ads",
+        "url": "https://developers.mercadolibre.com.co/es_co/display",
+        "status": "captured",
+        "sha256": "066cebb0c09542ca68f4b36f58e7a2caac84ee405b48101df63835e6494ea85e"
+      },
+      {
+        "id": "introduccion-a-mercado-ads",
+        "title": "Introducción a Mercado Ads",
+        "url": "https://developers.mercadolibre.com.co/es_co/introduccion-a-mercado-ads",
+        "status": "captured",
+        "sha256": "7b21a326e484d996e8c311f3a1df7aa7dfdc465b2c361bab849eba7a1a27d23c"
+      },
+      {
+        "id": "product-ads-para-catalogo-y-user-products-lectura",
+        "title": "Product Ads para Catálogo y User Products",
+        "url": "https://developers.mercadolibre.com.co/es_co/product-ads-para-catalogo-y-user-products-lectura",
+        "status": "captured",
+        "sha256": "e39b60ca9675908808fc37b73229b131718c4d0a2d12b27150d698c246b7034e"
+      },
+      {
+        "id": "agrupacion-de-paquetes-para-la-colecta",
+        "title": "Agrupación de paquetes para la Colecta",
+        "url": "https://developers.mercadolibre.com.co/es_co/agrupacion-de-paquetes-para-la-colecta",
+        "status": "captured",
+        "sha256": "456070bc9b893474fdc02acc8f656c5d279dac8b87b82ac3b017c305a534c974"
+      },
+      {
+        "id": "automatizaciones-de-precios",
+        "title": "Automatizaciones de precios",
+        "url": "https://developers.mercadolibre.com.co/es_co/automatizaciones-de-precios",
+        "status": "captured",
+        "sha256": "3450de90411d8156a3c577dde0961386aa1d64589abdcfe31bd4d2c06ac51f27"
+      },
+      {
+        "id": "buenas-practicas-para-el-consumo-de-las-apis-de-reportes-de-facturacion",
+        "title": "Buenas Prácticas para el Consumo de las APIs de Reportes de Facturación",
+        "url": "https://developers.mercadolibre.com.co/es_co/buenas-practicas-para-el-consumo-de-las-apis-de-reportes-de-facturacion",
+        "status": "captured",
+        "sha256": "64a9add6c4c4764fca01bf2ff84c4566726693725b903822aef72e7d83564de0"
+      },
+      {
+        "id": "buscador-de-productos",
+        "title": "Buscador de productos",
+        "url": "https://developers.mercadolibre.com.co/es_co/buscador-de-productos",
+        "status": "captured",
+        "sha256": "6df5aab15cacd6f3578e4919098454dd7686d365131db9e1820452ccc59c4b64"
+      },
+      {
+        "id": "calidad-de-publicaciones",
+        "title": "Calidad de publicaciones",
+        "url": "https://developers.mercadolibre.com.co/es_co/calidad-de-publicaciones",
+        "status": "captured",
+        "sha256": "7a5b685c0e682202257e5c4515c6e9cc3a512e5bc8f498f4a99c6bd95bf00f23"
+      },
+      {
+        "id": "changes",
+        "title": "Cambios",
+        "url": "https://developers.mercadolibre.com.co/es_co/changes",
+        "status": "captured",
+        "sha256": "d058bb5cd8c7da5af2b6f93c4468426e516168caf372cb769e242a3257a24aec"
+      },
+      {
+        "id": "pix",
+        "title": "Campaña co-fondeada para PIX",
+        "url": "https://developers.mercadolibre.com.co/es_co/pix",
+        "status": "captured",
+        "sha256": "2d597bf8b6fbf2800cba359d65a71e3b83b679f45910571e9520fc4682551fd8"
+      },
+      {
+        "id": "campanas-co-fondeadas",
+        "title": "Campañas co-fondeadas",
+        "url": "https://developers.mercadolibre.com.co/es_co/campanas-co-fondeadas",
+        "status": "captured",
+        "sha256": "70e6ab735be17704fc17e355e96e1007893ca02b89bc178883d46182ace5bb63"
+      },
+      {
+        "id": "campanas-con-descuento-por-cantidad",
+        "title": "Campañas con descuento por cantidad",
+        "url": "https://developers.mercadolibre.com.co/es_co/campanas-con-descuento-por-cantidad",
+        "status": "captured",
+        "sha256": "a80d42d5c00713d41f054f67d3348a017f2103f55b55bd180defe8fbe5f6f834"
+      },
+      {
+        "id": "campanas-del-vendedor",
+        "title": "Campañas del vendedor",
+        "url": "https://developers.mercadolibre.com.co/es_co/campanas-del-vendedor",
+        "status": "captured",
+        "sha256": "b764ad5dc96b2e69cb46ff0b6f9c38da1f9a3689e6ebfca1429042eec2e9ce8f"
+      },
+      {
+        "id": "deals",
+        "title": "Campañas tradicionales",
+        "url": "https://developers.mercadolibre.com.co/es_co/deals",
+        "status": "captured",
+        "sha256": "328bba4da639f1b7a6dea700d0b9ea13079cc496ac7f85459ccec77c819141d9"
+      },
+      {
+        "id": "conoce-como-estan-los-vendedores-frente-la-carga-de-atributos",
+        "title": "Carga de atributos",
+        "url": "https://developers.mercadolibre.com.co/es_co/conoce-como-estan-los-vendedores-frente-la-carga-de-atributos",
+        "status": "captured",
+        "sha256": "48936a35ba06ef7300fc23f48c31d38300f38136610f1071cabe59bbef5e223d"
+      },
+      {
+        "id": "cargar-factura",
+        "title": "Cargar y Obtener Facturas - Emisión Propia",
+        "url": "https://developers.mercadolibre.com.co/es_co/cargar-factura",
+        "status": "captured",
+        "sha256": "9efb332eefe9d1e9fb02fb66cfcf6c3f84aa8efb067e264b1bea4502be5670bd"
+      },
+      {
+        "id": "categoriza-productos",
+        "title": "Categorización de productos",
+        "url": "https://developers.mercadolibre.com.co/es_co/categoriza-productos",
+        "status": "captured",
+        "sha256": "ba9c2b6cd14ac87e967c22f0efdc834934607340b6ea80a0609f624ae94d61f4"
+      },
+      {
+        "id": "catalogo-reacondicionados",
+        "title": "Catálogo reacondicionados",
+        "url": "https://developers.mercadolibre.com.co/es_co/catalogo-reacondicionados",
+        "status": "captured",
+        "sha256": "c912894686b7b553f54178b0126b548be404716b9fd7aea551ac86887000024f"
+      },
+      {
+        "id": "campanas-smart-price-matching",
+        "title": "Co-fondeada automatizada y precios competitivos",
+        "url": "https://developers.mercadolibre.com.co/es_co/campanas-smart-price-matching",
+        "status": "captured",
+        "sha256": "f8b08bbc1cb4a5eb0e1f6290dc8e8bfc33a2ffbcf88849caa9894979a927d6d1"
+      },
+      {
+        "id": "compatibilidades-entre-items-y-productos",
+        "title": "Compatibilidades entre ítems y productos de Autopartes",
+        "url": "https://developers.mercadolibre.com.co/es_co/compatibilidades-entre-items-y-productos",
+        "status": "captured",
+        "sha256": "0bbcef30fefac8e8ee6761d378d2cdef41ddc5a7daa34d42f9ec8b3b23ab95ff"
+      },
+      {
+        "id": "competencia-en-catalogo",
+        "title": "Competencia",
+        "url": "https://developers.mercadolibre.com.co/es_co/competencia-en-catalogo",
+        "status": "captured",
+        "sha256": "2e49c4e78022f3899289fcc40cbfd633f049b320c255076b82f66a917c6e22bc"
+      },
+      {
+        "id": "convivencia-full-y-flex",
+        "title": "Convivencia Full/Flex (MLA y MLC)",
+        "url": "https://developers.mercadolibre.com.co/es_co/convivencia-full-y-flex",
+        "status": "captured",
+        "sha256": "4f54c9aea4aaad38a29a5a3db1f9a235490a92d37f54d222b9eedc75ffd236cf"
+      },
+      {
+        "id": "costos-de-envios",
+        "title": "Costos de envío",
+        "url": "https://developers.mercadolibre.com.co/es_co/costos-de-envios",
+        "status": "captured",
+        "sha256": "c0ed3a59b590ec189b2a170e3354bdcb49d07a389e730b5c4dbb0a0dbd4dec85"
+      },
+      {
+        "id": "comision-por-vender",
+        "title": "Costos por vender",
+        "url": "https://developers.mercadolibre.com.co/es_co/comision-por-vender",
+        "status": "captured",
+        "sha256": "84ac01bd7f131aafd325aefef7b79a4e0cee1b1d8464dbe0e51e5c9a474252fa"
+      },
+      {
+        "id": "cupones-del-vendedor",
+        "title": "Cupones del vendedor",
+        "url": "https://developers.mercadolibre.com.co/es_co/cupones-del-vendedor",
+        "status": "captured",
+        "sha256": "af532e5e6b74894dc8327cab267f572ad491ae882e9fdaa41e0c92a128b799d7"
+      },
+      {
+        "id": "facturacion",
+        "title": "Datos de Facturación",
+        "url": "https://developers.mercadolibre.com.co/es_co/facturacion",
+        "status": "captured",
+        "sha256": "e0bd043008f7db370d54eb453f3e090e6a4e6d2ad44a7a417b150715e6b60ca8"
+      },
+      {
+        "id": "reportes-descargas",
+        "title": "Descargas",
+        "url": "https://developers.mercadolibre.com.co/es_co/reportes-descargas",
+        "status": "captured",
+        "sha256": "a0cb93a5452af5b254ce39917c6db62e247b34febb09e32dc8f558e67b887526"
+      },
+      {
+        "id": "descripcion-de-articulos",
+        "title": "Descripción de productos",
+        "url": "https://developers.mercadolibre.com.co/es_co/descripcion-de-articulos",
+        "status": "captured",
+        "sha256": "7d28bdaeca309add04eb1f7a5da06a8795872f1dd795ae651307b04a959af108"
+      },
+      {
+        "id": "descuento-individual",
+        "title": "Descuento individual",
+        "url": "https://developers.mercadolibre.com.co/es_co/descuento-individual",
+        "status": "captured",
+        "sha256": "d84ec0d8eb00428e639212670884bc3018694b4fd31de821284abea1d4d27bf2"
+      },
+      {
+        "id": "gestionar-devoluciones",
+        "title": "Devoluciones",
+        "url": "https://developers.mercadolibre.com.co/es_co/gestionar-devoluciones",
+        "status": "captured",
+        "sha256": "728d4231cd18ca266288e6ad25c753fa866e449c1558310aecb1b5039f80567b"
+      },
+      {
+        "id": "elegibilidad-catalogo",
+        "title": "Elegibilidad de catálogo",
+        "url": "https://developers.mercadolibre.com.co/es_co/elegibilidad-catalogo",
+        "status": "captured",
+        "sha256": "2de4018b7c6e09382d86beefef8124025b08a42117f095f5bf0349e694132e4f"
+      },
+      {
+        "id": "envios",
+        "title": "Envíos",
+        "url": "https://developers.mercadolibre.com.co/es_co/envios",
+        "status": "captured",
+        "sha256": "2d954c8f9a8fc79c38e00a362957f689017ebcac475b25620906f2ca01e30e36"
+      },
+      {
+        "id": "envios-colectas-places",
+        "title": "Envíos Colecta y Places",
+        "url": "https://developers.mercadolibre.com.co/es_co/envios-colectas-places",
+        "status": "captured",
+        "sha256": "6f46bb1c3c61f995b1583f9cf3664a75a4c44574da64339ff8c68032ed009cac"
+      },
+      {
+        "id": "dias-no-laborables",
+        "title": "Envíos en feriados opcionales",
+        "url": "https://developers.mercadolibre.com.co/es_co/dias-no-laborables",
+        "status": "captured",
+        "sha256": "76d7e8cca0e0da8d2bfa47fe109a071e8dfbf84f580fd87033a56e545b968461"
+      },
+      {
+        "id": "envios-flex",
+        "title": "Envíos Flex",
+        "url": "https://developers.mercadolibre.com.co/es_co/envios-flex",
+        "status": "captured",
+        "sha256": "ec49e0e0d20ab6e0c866051cf55ba9141809446e3c59efdd3ce51e26a96049f0"
+      },
+      {
+        "id": "envios-fulfillment",
+        "title": "Envíos Fulfillment",
+        "url": "https://developers.mercadolibre.com.co/es_co/envios-fulfillment",
+        "status": "captured",
+        "sha256": "688ab176e238e81ef3f0c6ad84ed03c73ad8db9fc36dd7a1fb4b05c0eaf9af75"
+      },
+      {
+        "id": "envios-personalizados",
+        "title": "Envíos Personalizados",
+        "url": "https://developers.mercadolibre.com.co/es_co/envios-personalizados",
+        "status": "captured",
+        "sha256": "bc5af1e6c589aafa1363ed44aeaf7cfd7c3152d972f07c685eca1bebc42f82ce"
+      },
+      {
+        "id": "envios-turbo",
+        "title": "Envíos Turbo",
+        "url": "https://developers.mercadolibre.com.co/es_co/envios-turbo",
+        "status": "captured",
+        "sha256": "26bfe82a2f7f4483e5024f84e28b9f014ae5a9e8b66893690dd473de8d621e1d"
+      },
+      {
+        "id": "errores",
+        "title": "Errores",
+        "url": "https://developers.mercadolibre.com.co/es_co/errores",
+        "status": "captured",
+        "sha256": "25c1b49fecc1990415efb1fbb7dc920b7b96233503c9c05b107a0ef7a6eb6e87"
+      },
+      {
+        "id": "estados-de-ordenes-me1",
+        "title": "Estados de órdenes y seguimiento",
+        "url": "https://developers.mercadolibre.com.co/es_co/estados-de-ordenes-me1",
+        "status": "captured",
+        "sha256": "1af30075457cad6e3fba0872b092b03b31d76b80c771115d39c96f9a1a448d5f"
+      },
+      {
+        "id": "experiencia-de-compra",
+        "title": "Experiencia de compra",
+        "url": "https://developers.mercadolibre.com.co/es_co/experiencia-de-compra",
+        "status": "captured",
+        "sha256": "94026661f158870feb77ade0f2a197579b171ba71de7cccdbfc7f3408cde7147"
+      },
+      {
+        "id": "feedback-sobre-venta",
+        "title": "Feedback de una venta",
+        "url": "https://developers.mercadolibre.com.co/es_co/feedback-sobre-venta",
+        "status": "captured",
+        "sha256": "733d1940a4e1750c71c21dcb1b4719f8bc4a594bb4ae19873015e55edad8c574"
+      },
+      {
+        "id": "flete-dinamico",
+        "title": "Flete dinámico",
+        "url": "https://developers.mercadolibre.com.co/es_co/flete-dinamico",
+        "status": "captured",
+        "sha256": "c5e49ab6257e9a94044cdf7b3441c05869f211b32b9502776c8466708916c63e"
+      },
+      {
+        "id": "gestionar-evidencia-de-reclamos",
+        "title": "Gestionar evidencia de reclamos",
+        "url": "https://developers.mercadolibre.com.co/es_co/gestionar-evidencia-de-reclamos",
+        "status": "captured",
+        "sha256": "3c54d3f4fd5a3e3db70e0a360e86dc3ec9137f8744be6db7d594426450c4c605"
+      },
+      {
+        "id": "guias-de-talles",
+        "title": "Gestionar guía de talles",
+        "url": "https://developers.mercadolibre.com.co/es_co/guias-de-talles",
+        "status": "captured",
+        "sha256": "a48b178f2349a3545420a1a07dbb659c56e0806dce95c1895276ef8d198da599"
+      },
+      {
+        "id": "gestionar-mensaje-de-un-reclamo",
+        "title": "Gestionar mensajes de un reclamo",
+        "url": "https://developers.mercadolibre.com.co/es_co/gestionar-mensaje-de-un-reclamo",
+        "status": "captured",
+        "sha256": "52731622bf19f4ac09d4769ef17d0642e73682b9ec9266595d807aebcf8f535a"
+      },
+      {
+        "id": "central-de-promociones",
+        "title": "Gestionar promociones",
+        "url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones",
+        "status": "captured",
+        "sha256": "9cc3fae1dbcd99bb6bed33dc6561a230bb6cdf05c37c37243451503cdde1a2eb"
+      },
+      {
+        "id": "que-es-un-reclamo",
+        "title": "Gestionar reclamos",
+        "url": "https://developers.mercadolibre.com.co/es_co/que-es-un-reclamo",
+        "status": "captured",
+        "sha256": "fffa9485ca6a34f0df2ab8bfff088defa4a443ccaa5c8d969a17866aa4cd2bf2"
+      },
+      {
+        "id": "gestionar-resolucion-de-reclamos",
+        "title": "Gestionar resolución de reclamos",
+        "url": "https://developers.mercadolibre.com.co/es_co/gestionar-resolucion-de-reclamos",
+        "status": "captured",
+        "sha256": "6fbb252e3102627c7daa87b04f4ba8e3997a66b19b8f8a937d95864a49040ba7"
+      },
+      {
+        "id": "mensajeria-post-venta",
+        "title": "Gestión de mensajes",
+        "url": "https://developers.mercadolibre.com.co/es_co/mensajeria-post-venta",
+        "status": "captured",
+        "sha256": "7783477080c943480cee1d53a05b6977c4a6d1cc5a3616500de1ae492eaf4da6"
+      },
+      {
+        "id": "mercado-envios",
+        "title": "Gestión Mercado Envíos",
+        "url": "https://developers.mercadolibre.com.co/es_co/mercado-envios",
+        "status": "captured",
+        "sha256": "62e7d2db9641cb8bba4a5486e9066cc8e2fac356489beb26f0ebf20ac91804e1"
+      },
+      {
+        "id": "identificadores-de-productos",
+        "title": "Identificadores de productos",
+        "url": "https://developers.mercadolibre.com.co/es_co/identificadores-de-productos",
+        "status": "captured",
+        "sha256": "95c0f45476d3a85dd0958dd323391e4924991e0b39b7aaf363bc0e59c41d457b"
+      },
+      {
+        "id": "trabajar-con-imagenes",
+        "title": "Imágenes",
+        "url": "https://developers.mercadolibre.com.co/es_co/trabajar-con-imagenes",
+        "status": "captured",
+        "sha256": "76405248491b1fb96f06cdf061482f5e28b4a816db56204aff321be4baf0fd42"
+      },
+      {
+        "id": "guia-para-producto",
+        "title": "Introducción",
+        "url": "https://developers.mercadolibre.com.co/es_co/guia-para-producto",
+        "status": "captured",
+        "sha256": "b159ae1754188bc7d8f05ee17e4c11825a18526bf37b86827b731661462acbcf"
+      },
+      {
+        "id": "kits-virtuales",
+        "title": "Kits virtuales",
+        "url": "https://developers.mercadolibre.com.co/es_co/kits-virtuales",
+        "status": "captured",
+        "sha256": "f6ccb6aed6cdebc69e4a88b26fb4aac19735a08903fa2b98f9b32833b972dded"
+      },
+      {
+        "id": "mensajes-bloqueados",
+        "title": "Mensajes bloqueados",
+        "url": "https://developers.mercadolibre.com.co/es_co/mensajes-bloqueados",
+        "status": "captured",
+        "sha256": "b1643164c8a3dec367ff8f8be98c32e6f47edc92727cef7bc4ebd503dc15f8bf"
+      },
+      {
+        "id": "mensajes-pendientes",
+        "title": "Mensajes pendientes",
+        "url": "https://developers.mercadolibre.com.co/es_co/mensajes-pendientes",
+        "status": "captured",
+        "sha256": "65ffd2b7a07792f9d27a45d045bbc2b015b2f223d2bf3b02258a946fd71a6716"
+      },
+      {
+        "id": "mercadoenvios-modo-1",
+        "title": "Mercado Envíos 1",
+        "url": "https://developers.mercadolibre.com.co/es_co/mercadoenvios-modo-1",
+        "status": "captured",
+        "sha256": "83906ba1b864e923a3a1b503f6869451fde64e24fbde0d3a78f7f3014576dbda"
+      },
+      {
+        "id": "mercadoenvios-modo-2",
+        "title": "Mercado Envíos 2",
+        "url": "https://developers.mercadolibre.com.co/es_co/mercadoenvios-modo-2",
+        "status": "captured",
+        "sha256": "d6dc7aaa8e9b6a3e863bf7ad099aa4fc731e61d25fd90d89a89b5b100cc0c31a"
+      },
+      {
+        "id": "motivos-para-comunicarse",
+        "title": "Motivos para comunicarse",
+        "url": "https://developers.mercadolibre.com.co/es_co/motivos-para-comunicarse",
+        "status": "captured",
+        "sha256": "05abb9e9f8305efc8d03ec6140aec110f298b02836a76fe995216eb442b3e4da"
+      },
+      {
+        "id": "notas-de-packs",
+        "title": "Notas de Packs",
+        "url": "https://developers.mercadolibre.com.co/es_co/notas-de-packs",
+        "status": "captured",
+        "sha256": "37d2ee480f7cc2cd329ad639345d8a5bb7301bbac6d57a72905a9b8cf037d7ac"
+      },
+      {
+        "id": "notas-en-ordenes",
+        "title": "Notas en órdenes",
+        "url": "https://developers.mercadolibre.com.co/es_co/notas-en-ordenes",
+        "status": "captured",
+        "sha256": "a2943b4b901d4da6602852dd74eb63843f24d41f2bc2bea4cbc61c7fb518639c"
+      },
+      {
+        "id": "ofertas-del-dia",
+        "title": "Ofertas del día",
+        "url": "https://developers.mercadolibre.com.co/es_co/ofertas-del-dia",
+        "status": "captured",
+        "sha256": "f197f81c364bacc5cdc92b794339a308bfd2e7d252aa28da7eaf3a2bd78a1a86"
+      },
+      {
+        "id": "ofertas-relampago",
+        "title": "Ofertas relámpago",
+        "url": "https://developers.mercadolibre.com.co/es_co/ofertas-relampago",
+        "status": "captured",
+        "sha256": "63e6392601b055c4494b91f5779d4f0fe96184d80cc578a66f0d28e2d61c02eb"
+      },
+      {
+        "id": "opiniones-sobre-producto",
+        "title": "Opiniones de productos",
+        "url": "https://developers.mercadolibre.com.co/es_co/opiniones-sobre-producto",
+        "status": "captured",
+        "sha256": "7378915beaf907c38645ee35c6cc7feee35d816769bf604ca846dc178fcd1b0c"
+      },
+      {
+        "id": "gestion-packs",
+        "title": "Packs",
+        "url": "https://developers.mercadolibre.com.co/es_co/gestion-packs",
+        "status": "captured",
+        "sha256": "730ef3e7f2218a955f27b2d22bebfade9e4f369d8dd3df5cde9f2a2c33ada042"
+      },
+      {
+        "id": "pagos",
+        "title": "Pagos",
+        "url": "https://developers.mercadolibre.com.co/es_co/pagos",
+        "status": "captured",
+        "sha256": "c0f7be940a733c4514ff2962620d70ea64074c6c6ac8547637720a55881af398"
+      },
+      {
+        "id": "reportes-pagos",
+        "title": "Pagos",
+        "url": "https://developers.mercadolibre.com.co/es_co/reportes-pagos",
+        "status": "captured",
+        "sha256": "a0e004780c9de55bca4c5d0daf7472b10d03cf8cf2942c983f874c3f59f24df2"
+      },
+      {
+        "id": "resumen-percepciones",
+        "title": "Percepciones",
+        "url": "https://developers.mercadolibre.com.co/es_co/resumen-percepciones",
+        "status": "captured",
+        "sha256": "91093b06d25895bb068f27cf23ad079d707cffaf068288a18f8c6bf89fb1b1f2"
+      },
+      {
+        "id": "planes-de-reposicion-para-fulfilment",
+        "title": "Planes de reposición para fulfilment",
+        "url": "https://developers.mercadolibre.com.co/es_co/planes-de-reposicion-para-fulfilment",
+        "status": "captured",
+        "sha256": "6c547e990b1856473a070f68efcf78ed6b4ab3e820787184a83f226fcf1fd1e8"
+      },
+      {
+        "id": "descuento-pre-acordado-por-item",
+        "title": "Pre-acordado por ítem y liquidación stock Full",
+        "url": "https://developers.mercadolibre.com.co/es_co/descuento-pre-acordado-por-item",
+        "status": "captured",
+        "sha256": "97e0853dcc3c13c91c9ca7a5758f1f2d6d31669064dcb328e796dad3c380e130"
+      },
+      {
+        "id": "precio-por-cantidad",
+        "title": "Precio por cantidad",
+        "url": "https://developers.mercadolibre.com.co/es_co/precio-por-cantidad",
+        "status": "captured",
+        "sha256": "4e58e2856f7aa70b3bdb9bf28dc1b5b14685116023974a1d2889c9e9368196fb"
+      },
+      {
+        "id": "precio-variacion",
+        "title": "Precio por variación",
+        "url": "https://developers.mercadolibre.com.co/es_co/precio-variacion",
+        "status": "captured",
+        "sha256": "78237bef3ea02d27fdb57a97f22ef8cace960fa96976af0a8ca6cc2608197844"
+      },
+      {
+        "id": "api-de-precios",
+        "title": "Precios de productos",
+        "url": "https://developers.mercadolibre.com.co/es_co/api-de-precios",
+        "status": "captured",
+        "sha256": "847c8938eed5745d32a505d6ecc610cccdd345c30b25015d9be529766974ad55"
+      },
+      {
+        "id": "precios-netos",
+        "title": "Precios netos por cantidad",
+        "url": "https://developers.mercadolibre.com.co/es_co/precios-netos",
+        "status": "captured",
+        "sha256": "170b98389045046990df2817a14a4cb715d812803683706ac0e3bc012353b182"
+      },
+      {
+        "id": "precios-por-cantidad-b2c",
+        "title": "Precios por cantidad B2C",
+        "url": "https://developers.mercadolibre.com.co/es_co/precios-por-cantidad-b2c",
+        "status": "captured",
+        "sha256": "6a45ee9e4317976dfdb6cb4f0f4d19df2e2bfaa5fb8a74936ef26bffa2d20a3e"
+      },
+      {
+        "id": "pxq-porcentaje-b2b",
+        "title": "Precios por cantidad porcentaje B2B",
+        "url": "https://developers.mercadolibre.com.co/es_co/pxq-porcentaje-b2b",
+        "status": "captured",
+        "sha256": "310cb5de072065bf1dd28d65734730e4e415b9523b96f3d476c112fa7ca98e3d"
+      },
+      {
+        "id": "gestiona-preguntas-respuestas",
+        "title": "Preguntas y respuestas",
+        "url": "https://developers.mercadolibre.com.co/es_co/gestiona-preguntas-respuestas",
+        "status": "captured",
+        "sha256": "af2d74ac67062988ab8afe8f43ad2545c54c4102d706e02b64200afb2949ddf6"
+      },
+      {
+        "id": "primeros-pasos-es",
+        "title": "Primeros pasos",
+        "url": "https://developers.mercadolibre.com.co/es_co/primeros-pasos-es",
+        "status": "captured",
+        "sha256": "e19b6086fefa2d02c66fc058e4b6481351aefeee9637cf79b5a80ac8738ba160"
+      },
+      {
+        "id": "recuperacion-reputacion",
+        "title": "Programa de Despegue y Beneficio de Reputación",
+        "url": "https://developers.mercadolibre.com.co/es_co/recuperacion-reputacion",
+        "status": "captured",
+        "sha256": "89700639130ce1e25f77e868ffcbaf05445e694fc267117f7662b311947cbf2f"
+      },
+      {
+        "id": "provisiones",
+        "title": "Provisiones",
+        "url": "https://developers.mercadolibre.com.co/es_co/provisiones",
+        "status": "captured",
+        "sha256": "26da150f4af471fea75a34dc1dc964f4b389e530262a222a5b0f993bf8e59e7f"
+      },
+      {
+        "id": "publicaciones-requeridas-en-catalogo",
+        "title": "Publicaciones requeridas",
+        "url": "https://developers.mercadolibre.com.co/es_co/publicaciones-requeridas-en-catalogo",
+        "status": "captured",
+        "sha256": "7d7b26817bde6046ce136998b0482090613044f7abe8bb52634af4d7deae82af"
+      },
+      {
+        "id": "publicacion-en-catalogo",
+        "title": "Publicar en catálogo",
+        "url": "https://developers.mercadolibre.com.co/es_co/publicacion-en-catalogo",
+        "status": "captured",
+        "sha256": "68eb4b23d82409cfc035ff6dc1a82d87701ec420b7b8457aa03c2f3bd1f86dc8"
+      },
+      {
+        "id": "publica-productos",
+        "title": "Publicar productos",
+        "url": "https://developers.mercadolibre.com.co/es_co/publica-productos",
+        "status": "captured",
+        "sha256": "1f10c5259d56534aad2c1f89098c69fa4bd3adf093a60eec554bc69da117a2ae"
+      },
+      {
+        "id": "que-es-catalogo",
+        "title": "Qué es catálogo",
+        "url": "https://developers.mercadolibre.com.co/es_co/que-es-catalogo",
+        "status": "captured",
+        "sha256": "3b873a63083ec14fe65c4c200c93be29fc0c8a8719d8b17a3bda7a956b7c2e36"
+      },
+      {
+        "id": "que-es-mensajeria",
+        "title": "Qué es mensajería",
+        "url": "https://developers.mercadolibre.com.co/es_co/que-es-mensajeria",
+        "status": "captured",
+        "sha256": "1b35ae0c339c44883aa1eb3d5da99c3749aeb02410d76e29246ed2459a341dd9"
+      },
+      {
+        "id": "referencias-de-dominios-productos-y-atributos-para-autopartes",
+        "title": "Referencias de dominios, productos y atributos para Autopartes",
+        "url": "https://developers.mercadolibre.com.co/es_co/referencias-de-dominios-productos-y-atributos-para-autopartes",
+        "status": "captured",
+        "sha256": "192953fd613b3f1c101c36feb7997a57a7d5b1429372225dd77573df423ccd26"
+      },
+      {
+        "id": "referencias-de-precios",
+        "title": "Referencias de precios",
+        "url": "https://developers.mercadolibre.com.co/es_co/referencias-de-precios",
+        "status": "captured",
+        "sha256": "10131592f458a1241c95db4b2ae91a905f7cb339be2bb70f429583324463345a"
+      },
+      {
+        "id": "reportes-de-facturacion",
+        "title": "Reportes de Facturación",
+        "url": "https://developers.mercadolibre.com.co/es_co/reportes-de-facturacion",
+        "status": "captured",
+        "sha256": "3771e88a50c260e88dcb8952bcc391b54d083a1f4a706b03fb2d4bedef117627"
+      },
+      {
+        "id": "re-publica",
+        "title": "Republicar ítems",
+        "url": "https://developers.mercadolibre.com.co/es_co/re-publica",
+        "status": "captured",
+        "sha256": "1dd10312fc0d052609fd7be4998a9c4ff54e34e14ba9018c0fc5073263b1b629"
+      },
+      {
+        "id": "reputacion-de-vendedores",
+        "title": "Reputación de vendedores",
+        "url": "https://developers.mercadolibre.com.co/es_co/reputacion-de-vendedores",
+        "status": "captured",
+        "sha256": "3319bd3e5a972874e58778c23bea4004e238583cad6b7c4deb3c3cbb813d1b08"
+      },
+      {
+        "id": "producto-sincroniza-modifica-publicaciones",
+        "title": "Sincroniza y modifica publicaciones",
+        "url": "https://developers.mercadolibre.com.co/es_co/producto-sincroniza-modifica-publicaciones",
+        "status": "captured",
+        "sha256": "eaaff276499886b2025c58bb40b64eac16a281f691caefc98e035bc4c3149829"
+      },
+      {
+        "id": "stock-distribuido",
+        "title": "Stock distribuido",
+        "url": "https://developers.mercadolibre.com.co/es_co/stock-distribuido",
+        "status": "captured",
+        "sha256": "d89c2328a63dbd213598ee42f4face57cc6b4ef5eb391eee1d7b8357439c776e"
+      },
+      {
+        "id": "stock-multi-origen",
+        "title": "Stock multi origen",
+        "url": "https://developers.mercadolibre.com.co/es_co/stock-multi-origen",
+        "status": "captured",
+        "sha256": "7fda97051e172117ff9828b0f6a65db9885dbcca54531af0ebe0e6d722b734a2"
+      },
+      {
+        "id": "tendencias",
+        "title": "Tendencias",
+        "url": "https://developers.mercadolibre.com.co/es_co/tendencias",
+        "status": "captured",
+        "sha256": "2753f4db91b028d737edc9fdb7b47662a22e585dd8504986486b177a0bbc1315"
+      },
+      {
+        "id": "tienda-oficial",
+        "title": "Tiendas Oficiales",
+        "url": "https://developers.mercadolibre.com.co/es_co/tienda-oficial",
+        "status": "captured",
+        "sha256": "00f05d533956d6206f7ce9f44140168a097987c403744c8ea1ff481d408c967a"
+      },
+      {
+        "id": "tipos-de-publicacion-y-actualizaciones-de-articulos",
+        "title": "Tipos de publicación",
+        "url": "https://developers.mercadolibre.com.co/es_co/tipos-de-publicacion-y-actualizaciones-de-articulos",
+        "status": "captured",
+        "sha256": "37aa57597cebb06f1db9875557bd3c26539fbe7639ed412e378183b49366179a"
+      },
+      {
+        "id": "user-products",
+        "title": "User Products",
+        "url": "https://developers.mercadolibre.com.co/es_co/user-products",
+        "status": "captured",
+        "sha256": "5310d6f53588b13eac1f0de06ab5f6fc16e9efb1d75dfe1b4c82d03fcadca59e"
+      },
+      {
+        "id": "validaciones",
+        "title": "Validaciones",
+        "url": "https://developers.mercadolibre.com.co/es_co/validaciones",
+        "status": "captured",
+        "sha256": "66811cda096e57ac31d1754fe8a107d60d371c6ef51a8925c14aaa29ddd49197"
+      },
+      {
+        "id": "validacion-de-guia-de-talles",
+        "title": "Validación de guía de talles",
+        "url": "https://developers.mercadolibre.com.co/es_co/validacion-de-guia-de-talles",
+        "status": "captured",
+        "sha256": "3df33f856c8438e6f421b5e7fa2f96feb78327c12598c8d22563c14815c4dcff"
+      },
+      {
+        "id": "variaciones",
+        "title": "Variaciones",
+        "url": "https://developers.mercadolibre.com.co/es_co/variaciones",
+        "status": "captured",
+        "sha256": "35223088ceb8a334fcbcf3764baadd4cf7026d556c3b1c8373abd7a8e4a1ca05"
+      },
+      {
+        "id": "recurso-de-visitas",
+        "title": "Visitas",
+        "url": "https://developers.mercadolibre.com.co/es_co/recurso-de-visitas",
+        "status": "captured",
+        "sha256": "799e9497f341d32f53a1ff3cdd55bdfcab3e4cb97a8861c95795a3ab2455d550"
+      },
+      {
+        "id": "gestiona-ventas",
+        "title": "Órdenes",
+        "url": "https://developers.mercadolibre.com.co/es_co/gestiona-ventas",
+        "status": "captured",
+        "sha256": "c48a0dfb03ce005b4b57662ae375d153d2b08c866aa552dc7650603ff6d48faa"
+      },
+      {
+        "id": "administra-areas-de-cobertura",
+        "title": "Administra áreas de cobertura",
+        "url": "https://developers.mercadolibre.com.co/es_co/administra-areas-de-cobertura",
+        "status": "captured",
+        "sha256": "7395c3bc5ad9129fbcf605d55596c2e7732ea5d7e95d99c771de653a52028cc9"
+      },
+      {
+        "id": "servicios-consulta-usuarios",
+        "title": "Consulta Usuarios",
+        "url": "https://developers.mercadolibre.com.co/es_co/servicios-consulta-usuarios",
+        "status": "captured",
+        "sha256": "7daf1a0d502f06e2e8a62bb674060a63b7d2e50b5ca04173cd131f20dc9ee3f3"
+      },
+      {
+        "id": "consultas-avanzadas-2",
+        "title": "Consultas avanzadas",
+        "url": "https://developers.mercadolibre.com.co/es_co/consultas-avanzadas-2",
+        "status": "captured",
+        "sha256": "59a00572f9e90668c70394dcbffa26954472ad0f5b77800106706b8ef42d9c3d"
+      },
+      {
+        "id": "elige-tipo-de-servicio",
+        "title": "Elige tipo de servicio",
+        "url": "https://developers.mercadolibre.com.co/es_co/elige-tipo-de-servicio",
+        "status": "captured",
+        "sha256": "bee1851482489e84c3ecc0aaf1318efe220d8718f386bb87ce5cddf2452b6b35"
+      },
+      {
+        "id": "guia-para-servicios",
+        "title": "Introducción",
+        "url": "https://developers.mercadolibre.com.co/es_co/guia-para-servicios",
+        "status": "captured",
+        "sha256": "93d31fb5b2b6962e8482651aefe995504af3d0d508a0f31789f7b1a1b1427d94"
+      },
+      {
+        "id": "publica-servicios-vis",
+        "title": "Publica servicios",
+        "url": "https://developers.mercadolibre.com.co/es_co/publica-servicios-vis",
+        "status": "captured",
+        "sha256": "10ff24f3bc0f256cb74a85c9024d4756526299e277e1a1bfe3edfcdcf71f9e81"
+      },
+      {
+        "id": "servicio-sincroniza-publicaciones",
+        "title": "Sincroniza publicaciones",
+        "url": "https://developers.mercadolibre.com.co/es_co/servicio-sincroniza-publicaciones",
+        "status": "captured",
+        "sha256": "897f252f6ceaf8af99a34bbe39560f4bd77da8d45b1d972b38de528811fc3d54"
+      },
+      {
+        "id": "calidad-de-publicaciones-vehiculos",
+        "title": "Calidad de publicaciones (vehículos)",
+        "url": "https://developers.mercadolibre.com.co/es_co/calidad-de-publicaciones-vehiculos",
+        "status": "captured",
+        "sha256": "b7306767c1d8c32e491213ba1c7ab525b3dcd59def0e18d325b21dee6f2ed264"
+      },
+      {
+        "id": "categorias-y-atributos",
+        "title": "Categorías y Atributos",
+        "url": "https://developers.mercadolibre.com.co/es_co/categorias-y-atributos",
+        "status": "captured",
+        "sha256": "c8c19d8709d4334031bb68c68347124a224c72b84ae920524ee2533f4f173995"
+      },
+      {
+        "id": "consulta-usuarios",
+        "title": "Consulta Usuarios",
+        "url": "https://developers.mercadolibre.com.co/es_co/consulta-usuarios",
+        "status": "captured",
+        "sha256": "3a5af6a69242f35065560ddb7d774a0e5de42ff894e9e769d94a06807c697eaf"
+      },
+      {
+        "id": "credits-motors",
+        "title": "Créditos pre aprobados",
+        "url": "https://developers.mercadolibre.com.co/es_co/credits-motors",
+        "status": "captured",
+        "sha256": "7e30d34a525774ad2d262e6c2f7c425afabc37490315c731b945dd109542c28e"
+      },
+      {
+        "id": "vehiculos-gestiona-paquetes",
+        "title": "Gestiona paquetes de vehículos",
+        "url": "https://developers.mercadolibre.com.co/es_co/vehiculos-gestiona-paquetes",
+        "status": "captured",
+        "sha256": "4a5b952ddae2b1387fbcb664451a28f7b11299a55366b58c5fc0bd6db611dcb1"
+      },
+      {
+        "id": "vehiculos-gestiona-preguntas-y-contactos",
+        "title": "Gestiona preguntas y contactos",
+        "url": "https://developers.mercadolibre.com.co/es_co/vehiculos-gestiona-preguntas-y-contactos",
+        "status": "captured",
+        "sha256": "2261703b13d7f718552e2360a7d88d6cd44be6f88c03483d886b9259cae04db0"
+      },
+      {
+        "id": "introduccion-vehiculos",
+        "title": "Introducción",
+        "url": "https://developers.mercadolibre.com.co/es_co/introduccion-vehiculos",
+        "status": "captured",
+        "sha256": "71d46d86ddf36aeff01aea06978ae2b595e95eae9ded6f9b54eec2481a257dcd"
+      },
+      {
+        "id": "localizacion-de-vehiculos",
+        "title": "Localiza vehículos",
+        "url": "https://developers.mercadolibre.com.co/es_co/localizacion-de-vehiculos",
+        "status": "captured",
+        "sha256": "c3c81efa7f6d2d47729f2a0dad4e92f0ee3a5c4597a036d7b56e63ccc709f368"
+      },
+      {
+        "id": "persona-interesadas",
+        "title": "Personas Interesadas",
+        "url": "https://developers.mercadolibre.com.co/es_co/persona-interesadas",
+        "status": "captured",
+        "sha256": "0d8f12950ed52e35dbbaab71a7318c27cd24cd84c60c68194980a59a6bfb9993"
+      },
+      {
+        "id": "publica-vehiculos",
+        "title": "Publica vehículos",
+        "url": "https://developers.mercadolibre.com.co/es_co/publica-vehiculos",
+        "status": "captured",
+        "sha256": "cf55cfe9ae6acd54129a395641f218b541d7e20c1ced1af0d96557e7ff664a31"
+      },
+      {
+        "id": "vehiculos-sincroniza-publicaciones",
+        "title": "Sincroniza publicaciones (vehículos)",
+        "url": "https://developers.mercadolibre.com.co/es_co/vehiculos-sincroniza-publicaciones",
+        "status": "captured",
+        "sha256": "ccf57a6d3e68a41b036d96814120d576b89c45d4dd9e86e2763e24518241f1e8"
+      },
+      {
+        "id": "mcp-server",
+        "title": "Mercado Libre MCP Server",
+        "url": "https://developers.mercadolibre.com.co/es_co/mcp-server",
+        "status": "captured",
+        "sha256": "89bd8a7ccb05df422c0b7813c8e17045d668758acc97e3a7b1b22a7e4d9aa5be"
+      },
+      {
+        "id": "autenticacion-y-autorizacion",
+        "title": "Autenticación y Autorización",
+        "url": "https://developers.mercadolibre.com.co/es_co/autenticacion-y-autorizacion",
+        "status": "captured",
+        "sha256": "7011f993b43802c38de47ec31240feb1a6207d9e26334fb0eb210a01e1edde47"
+      },
+      {
+        "id": "buenas-practicas-para-uso-de-la-plataforma",
+        "title": "Buenas prácticas para uso de la plataforma",
+        "url": "https://developers.mercadolibre.com.co/es_co/buenas-practicas-para-uso-de-la-plataforma",
+        "status": "captured",
+        "sha256": "ab80c9f9f6de2952ea5d7d82d06150f7a9e42f7aff720b0dd8b4285d9fe16eb0"
+      },
+      {
+        "id": "consideraciones-de-diseno",
+        "title": "Consideraciones de diseño",
+        "url": "https://developers.mercadolibre.com.co/es_co/consideraciones-de-diseno",
+        "status": "captured",
+        "sha256": "9553f44331ba40bd1476d97a6eee9321c6589d074af2dd85b2728331443907d6"
+      },
+      {
+        "id": "crea-una-aplicacion-en-mercado-libre-es",
+        "title": "Crea una aplicación en Mercado Libre",
+        "url": "https://developers.mercadolibre.com.co/es_co/crea-una-aplicacion-en-mercado-libre-es",
+        "status": "captured",
+        "sha256": "b8c7b8dda36faf76212c5c5a12b1b1f859676a0095c927a1838261a17dc2f4ba"
+      },
+      {
+        "id": "primeros-pasos-in-house",
+        "title": "Desarrollo in-house Quick Start",
+        "url": "https://developers.mercadolibre.com.co/es_co/primeros-pasos-in-house",
+        "status": "captured",
+        "sha256": "30d6c3bec9d60230a54cc500201b356111fbc48f3399dcee0805ad303d8c90c4"
+      },
+      {
+        "id": "error-403",
+        "title": "Error 403",
+        "url": "https://developers.mercadolibre.com.co/es_co/error-403",
+        "status": "captured",
+        "sha256": "8db519512b50c528dbdcfb0b268368928a61be48ef963bbe74b314be33b9c90f"
+      },
+      {
+        "id": "gestiona-tus-aplicaciones",
+        "title": "Gestiona tus aplicaciones",
+        "url": "https://developers.mercadolibre.com.co/es_co/gestiona-tus-aplicaciones",
+        "status": "captured",
+        "sha256": "15bd4654af0f3b8f95134acedeaa05cd35d1decaf8148aac54c22f5cddbcc1ed"
+      },
+      {
+        "id": "gestionar-ips-de-una-aplicacion",
+        "title": "Gestionar IPs de una aplicación",
+        "url": "https://developers.mercadolibre.com.co/es_co/gestionar-ips-de-una-aplicacion",
+        "status": "captured",
+        "sha256": "1d9637837a126687c7ada06463a236b15ca0b87f325f30aa4fb4de565007fcea"
+      },
+      {
+        "id": "permisos-funcionales",
+        "title": "Permisos funcionales",
+        "url": "https://developers.mercadolibre.com.co/es_co/permisos-funcionales",
+        "status": "captured",
+        "sha256": "2ff7b7b204c721eecf77b5fbc5d79a27e73775d36515bc9754c2f861c2dc17b9"
+      },
+      {
+        "id": "realiza-pruebas",
+        "title": "Realiza pruebas",
+        "url": "https://developers.mercadolibre.com.co/es_co/realiza-pruebas",
+        "status": "captured",
+        "sha256": "623af404a28b58f26178901304d8aac550659ddbdd46a4576b4f9ac62b2c1f9b"
+      },
+      {
+        "id": "soporte-para-integradores",
+        "title": "Soporte para Integradores",
+        "url": "https://developers.mercadolibre.com.co/es_co/soporte-para-integradores",
+        "status": "captured",
+        "sha256": "3529672f1bf0b0cb461220d11581987b6d3b35ce97af482317f27e408d187bae"
+      },
+      {
+        "id": "validador-de-publicaciones",
+        "title": "Validador de publicaciones",
+        "url": "https://developers.mercadolibre.com.co/es_co/validador-de-publicaciones",
+        "status": "captured",
+        "sha256": "cd85e12f4ec406ae8341cce1d9bce5424c0a56b40e7376d30ecb6830453d558e"
+      },
+      {
+        "id": "atributos",
+        "title": "Atributos",
+        "url": "https://developers.mercadolibre.com.co/es_co/atributos",
+        "status": "captured",
+        "sha256": "ecfc516ba66d54cb9e810eb4a6e96ffb5377edfe333f2b6d0f1d71694801b2fd"
+      },
+      {
+        "id": "bloqueo-de-aplicaciones",
+        "title": "Bloqueo de aplicaciones",
+        "url": "https://developers.mercadolibre.com.co/es_co/bloqueo-de-aplicaciones",
+        "status": "captured",
+        "sha256": "76e342bf2d2f15d04419713206949eee78b6ad59af1c87e92f5e4c86f604aa58"
+      },
+      {
+        "id": "conoce-las-novedades-que-reciben-los-vendedores",
+        "title": "Comunicaciones",
+        "url": "https://developers.mercadolibre.com.co/es_co/conoce-las-novedades-que-reciben-los-vendedores",
+        "status": "captured",
+        "sha256": "448d493a0c1a51759a572cee7b459afab8a72648e7e08bb5b2b4bdb8c346ca1b"
+      },
+      {
+        "id": "producto-consulta-usuarios",
+        "title": "Consulta usuarios",
+        "url": "https://developers.mercadolibre.com.co/es_co/producto-consulta-usuarios",
+        "status": "captured",
+        "sha256": "b3b228163414ac6e2401e6d99b9072f96b4e7eaf08dc08e3a0d993627edca9e4"
+      },
+      {
+        "id": "diagnostico-imagenes",
+        "title": "Diagnóstico de imágenes",
+        "url": "https://developers.mercadolibre.com.co/es_co/diagnostico-imagenes",
+        "status": "captured",
+        "sha256": "c573525825e4085983e2b2de11fbbf8c539d519c2d59e893d9a18524ac33c6bf"
+      },
+      {
+        "id": "direcciones-del-usuario",
+        "title": "Direcciones del usuario",
+        "url": "https://developers.mercadolibre.com.co/es_co/direcciones-del-usuario",
+        "status": "captured",
+        "sha256": "7d66c607566c740520b9ee918a99b15d65a9233229603ef6c6e79f740d677c71"
+      },
+      {
+        "id": "dominios-y-categorias",
+        "title": "Dominios y Categorías",
+        "url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias",
+        "status": "captured",
+        "sha256": "d24f25b2af7d177e9ef6f228c1db698148c0d653549dc8854b36aca522cbcb6a"
+      },
+      {
+        "id": "marcadores",
+        "title": "Favoritos",
+        "url": "https://developers.mercadolibre.com.co/es_co/marcadores",
+        "status": "captured",
+        "sha256": "8cfdd31c4dee307480239f50f6a4aed0ce75e8d3d07c4856ff6176670aa6f76c"
+      },
+      {
+        "id": "gestionar-moderaciones",
+        "title": "Gestionar moderaciones",
+        "url": "https://developers.mercadolibre.com.co/es_co/gestionar-moderaciones",
+        "status": "captured",
+        "sha256": "12c1160929b3df9ea6348e033cf2cda4d525e18b832be9a5144d966af586e65b"
+      },
+      {
+        "id": "miembros-del-programa",
+        "title": "Miembros del Programa",
+        "url": "https://developers.mercadolibre.com.co/es_co/miembros-del-programa",
+        "status": "captured",
+        "sha256": "2608bfdc8d390119a26de60a361b0bcdb7ecf00b6ffbc9a111f72d0d01b10c01"
+      },
+      {
+        "id": "moderaciones-con-pausado",
+        "title": "Moderaciones con pausado",
+        "url": "https://developers.mercadolibre.com.co/es_co/moderaciones-con-pausado",
+        "status": "captured",
+        "sha256": "da078f054da90da3fcbc24aa20b58be26c4a1047b6851d3282c3013c6cd6b3c0"
+      },
+      {
+        "id": "moderaciones-de-imagenes",
+        "title": "Moderaciones de imágenes",
+        "url": "https://developers.mercadolibre.com.co/es_co/moderaciones-de-imagenes",
+        "status": "captured",
+        "sha256": "1c6b575adad42e37a17cab38052f5ca4a5abd65e506f37ec10b3add674d59c9b"
+      },
+      {
+        "id": "productos-recibe-notificaciones",
+        "title": "Notificaciones",
+        "url": "https://developers.mercadolibre.com.co/es_co/productos-recibe-notificaciones",
+        "status": "captured",
+        "sha256": "074c635ab0a04205f0142efe8bfdfb308fb43b66d67f6904d705f017968cd06b"
+      },
+      {
+        "id": "pedidos-y-opiniones",
+        "title": "Pedidos y opiniones",
+        "url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones",
+        "status": "captured",
+        "sha256": "3f78c1d02ce42e5c19bde34ef802606462bc66bac3c81d47a786b62888ca828b"
+      },
+      {
+        "id": "validacion-de-datos",
+        "title": "Preguntas frecuentes sobre validación de datos",
+        "url": "https://developers.mercadolibre.com.co/es_co/validacion-de-datos",
+        "status": "captured",
+        "sha256": "868a288b6f5143339e4e94841adf1973a5e1650782093f485195170ce3fccadf"
+      },
+      {
+        "id": "preguntas-y-respuestas",
+        "title": "Preguntas y Respuestas",
+        "url": "https://developers.mercadolibre.com.co/es_co/preguntas-y-respuestas",
+        "status": "captured",
+        "sha256": "c012546a8aafbe2c21bd469e49a7e4b6bc9473938db91f419fbe2adcaee6d3a6"
+      },
+      {
+        "id": "publicaciones-denunciadas",
+        "title": "Publicaciones denunciadas",
+        "url": "https://developers.mercadolibre.com.co/es_co/publicaciones-denunciadas",
+        "status": "captured",
+        "sha256": "d9aecaff94f3856a6369ce45a812cabaae89cc47a1cd479b0a11d05192755617"
+      },
+      {
+        "id": "ubicacion-y-monedas",
+        "title": "Ubicación y Monedas",
+        "url": "https://developers.mercadolibre.com.co/es_co/ubicacion-y-monedas",
+        "status": "captured",
+        "sha256": "63f07e5e64b80596edfe0c84e35a7551ec044b9f8761e97093b85260ff6a6061"
+      },
+      {
+        "id": "usuarios-y-aplicaciones",
+        "title": "Usuarios y Aplicaciones",
+        "url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones",
+        "status": "captured",
+        "sha256": "ef8fa5bc5e51719772fe29e48fe67c179da1fccafd023d52579f52ceda2e9489"
+      },
+      {
+        "id": "validar-datos-de-vendedores",
+        "title": "Validar datos de vendedores",
+        "url": "https://developers.mercadolibre.com.co/es_co/validar-datos-de-vendedores",
+        "status": "captured",
+        "sha256": "94bf5ead0243841d4bd4d1c6eeb17e9020d29c1130c173ffc5b18716aa3a64cd"
+      },
+      {
+        "id": "que-es-brand-protection-program",
+        "title": "¿Qué es Brand Protection Program?",
+        "url": "https://developers.mercadolibre.com.co/es_co/que-es-brand-protection-program",
+        "status": "captured",
+        "sha256": "f9878d0c2f81ee61b4c426ee423d443f45550bac5a39d452615d3b155deb290c"
+      },
+      {
+        "id": "items-y-busquedas",
+        "title": "Ítems y Búsquedas",
+        "url": "https://developers.mercadolibre.com.co/es_co/items-y-busquedas",
+        "status": "captured",
+        "sha256": "f8f0cd709dde113809ec5af2226bef7ea9c873a3a5aa04fe56995fc1fe19a654"
+      }
+    ],
+    "changed": [],
+    "new": [],
+    "unavailable": [],
+    "capture_mismatch": []
+  }
+}

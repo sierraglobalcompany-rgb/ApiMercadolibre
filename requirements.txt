@@ -1,0 +1,4 @@
+graphifyy[mcp]==0.9.55
+reportlab==4.4.9
+pdfplumber==0.11.9
+pypdf==6.10.0

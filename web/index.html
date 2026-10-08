@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f4f7fb" />
+    <title>Consulta API Mercado Libre · es_co</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <script defer src="./app.js"></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="./" aria-label="Inicio de la documentación">
+        <span class="brand-mark" aria-hidden="true">ML</span>
+        <span>API Mercado Libre <small>DOCUMENTACIÓN ES_CO</small></span>
+      </a>
+      <nav aria-label="Enlaces de documentación">
+        <a href="../docs/markdown/INDEX.md">Índice Markdown</a>
+        <a href="../docs/mercadolibre-api-es-co.pdf">Manual PDF</a>
+        <a href="../graphify-out/graph.html">Grafo</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="eyebrow">REFERENCIA TÉCNICA · FUENTES OFICIALES</div>
+        <h1>Encuentra la función que necesitas.</h1>
+        <p>Busca recursos, operaciones, errores y guías del portal de Mercado Libre Colombia. Cada resultado enlaza a la ficha y a su fuente oficial.</p>
+        <label class="search-wrap" for="query">
+          <span aria-hidden="true" class="search-icon">⌕</span>
+          <input id="query" type="search" autocomplete="off" placeholder="Ej.: renovar access token, GET /users/me, error 429…" />
+          <kbd>Enter</kbd>
+        </label>
+        <div class="quick-searches" aria-label="Búsquedas sugeridas">
+          <button type="button" data-query="autenticación token">Autenticación</button>
+          <button type="button" data-query="GET /items">Ítems</button>
+          <button type="button" data-query="envíos costos">Envíos</button>
+          <button type="button" data-query="error 429 rate limit">Errores y límites</button>
+        </div>
+      </section>
+
+      <section class="workspace" aria-label="Resultados de búsqueda">
+        <aside class="filters">
+          <div class="filter-heading"><h2>Filtrar</h2><button id="clear-filters" type="button">Limpiar</button></div>
+          <label for="section-filter">Área funcional</label>
+          <select id="section-filter"><option value="">Todas las áreas</option></select>
+          <label for="method-filter">Método HTTP</label>
+          <select id="method-filter"><option value="">Todos</option></select>
+          <div class="scope-note"><span class="dot"></span><span>Consulta local<br /><strong>Sin conexión a una base alojada</strong></span></div>
+        </aside>
+
+        <div class="results-panel">
+          <div class="results-toolbar">
+            <div><span id="result-count">Cargando índice…</span><span id="result-context"></span></div>
+            <label class="sort-control" for="sort"><span>Ordenar</span><select id="sort"><option value="relevance">Relevancia</option><option value="title">Nombre</option><option value="updated">Actualización</option></select></label>
+          </div>
+          <div id="results" class="results" aria-live="polite"></div>
+          <div id="empty-state" class="empty-state" hidden>
+            <div class="empty-icon">⌕</div><h2>No encontramos coincidencias</h2><p>Prueba con otra palabra, una ruta HTTP o limpia los filtros.</p>
+          </div>
+          <div id="load-error" class="load-error" hidden></div>
+        </div>
+      </section>
+    </main>
+
+    <footer><span>Mercado Libre · Colombia</span><span>Fuentes oficiales · captura y actualización por página</span></footer>
+  </body>
+</html>

@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "mercadolibre-es-co": {
+      "command": "C:/ruta/al/repositorio/.venv/Scripts/python.exe",
+      "args": [
+        "C:/ruta/al/repositorio/scripts/mcp_server.py",
+        "--graph",
+        "C:/ruta/al/repositorio/graphify-out/graph.json"
+      ]
+    }
+  }
+}

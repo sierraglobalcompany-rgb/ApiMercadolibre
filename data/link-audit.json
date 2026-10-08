@@ -1,0 +1,2805 @@
+{
+  "captured_at": "2026-10-08T23:02:12.966370+00:00",
+  "links": [
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/developer-partner-program",
+      "source_page_id": "developer-partner-program",
+      "link_text": "→ 1. Cómo funciona el Programa",
+      "url": "https://developers.mercadolibre.com.co/es_co/developer-partner-program#como-funciona-o-programa",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/developer-partner-program",
+      "source_page_id": "developer-partner-program",
+      "link_text": "→ 2. Requisitos para postularse al programa",
+      "url": "https://developers.mercadolibre.com.co/es_co/developer-partner-program#requisitos-para-candidatura",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/developer-partner-program",
+      "source_page_id": "developer-partner-program",
+      "link_text": "→ 3. Aplicaciones certificadas",
+      "url": "https://developers.mercadolibre.com.co/es_co/developer-partner-program#aplicacoes-certificadas",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/developer-partner-program",
+      "source_page_id": "developer-partner-program",
+      "link_text": "↳ 3.1 Mantenimiento de medallas",
+      "url": "https://developers.mercadolibre.com.co/es_co/developer-partner-program#manutencao-de-medalhas",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/developer-partner-program",
+      "source_page_id": "developer-partner-program",
+      "link_text": "↳ 3.2 Proceso de asignación de iniciativas",
+      "url": "https://developers.mercadolibre.com.co/es_co/developer-partner-program#processo-atribuicao-iniciativas",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/developer-partner-program",
+      "source_page_id": "developer-partner-program",
+      "link_text": "↳ 3.3 Cambios en la medalla asignada",
+      "url": "https://developers.mercadolibre.com.co/es_co/developer-partner-program#alteracoes-medalha",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/developer-partner-program",
+      "source_page_id": "developer-partner-program",
+      "link_text": "↳ 3.3.1 Mejora de medalla",
+      "url": "https://developers.mercadolibre.com.co/es_co/developer-partner-program#upgrade-medalha",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/developer-partner-program",
+      "source_page_id": "developer-partner-program",
+      "link_text": "↳ 3.3.2 Cuarentena y Downgrade de medalla",
+      "url": "https://developers.mercadolibre.com.co/es_co/developer-partner-program#quarentena-downgrade-medalha",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/developer-partner-program",
+      "source_page_id": "developer-partner-program",
+      "link_text": "↳ 3.4 Regionalización de medalla",
+      "url": "https://developers.mercadolibre.com.co/es_co/developer-partner-program#regionalizacao-medalha",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/developer-partner-program",
+      "source_page_id": "developer-partner-program",
+      "link_text": "→ 4. Beneficios del programa",
+      "url": "https://developers.mercadolibre.com.co/es_co/developer-partner-program#beneficios-programa",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/developer-partner-program",
+      "source_page_id": "developer-partner-program",
+      "link_text": "SILVER.",
+      "url": "https://developers.mercadolibre.com.co/es_co/developer-partner-program#tabla-destino",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/seguridad-desarrollo-seguro",
+      "source_page_id": "seguridad-desarrollo-seguro",
+      "link_text": "→ 1.1: Limpieza, Rotación y Quick Wins Técnicos",
+      "url": "https://developers.mercadolibre.com.co/es_co/seguridad-desarrollo-seguro#1",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/seguridad-desarrollo-seguro",
+      "source_page_id": "seguridad-desarrollo-seguro",
+      "link_text": "→ 2.2: Autenticación, Fuerza Bruta y PII",
+      "url": "https://developers.mercadolibre.com.co/es_co/seguridad-desarrollo-seguro#2",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/seguridad-desarrollo-seguro",
+      "source_page_id": "seguridad-desarrollo-seguro",
+      "link_text": "→ 3.3: Lógica de Negocio (IDOR) y Webhooks",
+      "url": "https://developers.mercadolibre.com.co/es_co/seguridad-desarrollo-seguro#3",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/seguridad-desarrollo-seguro",
+      "source_page_id": "seguridad-desarrollo-seguro",
+      "link_text": "→ 4.4: Monitoreo, Incidentes y Mínimo Privilegio",
+      "url": "https://developers.mercadolibre.com.co/es_co/seguridad-desarrollo-seguro#4",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/seguridad-desarrollo-seguro",
+      "source_page_id": "seguridad-desarrollo-seguro",
+      "link_text": "→ 5.5: ¿Qué ganamos con estos cambios?",
+      "url": "https://developers.mercadolibre.com.co/es_co/seguridad-desarrollo-seguro#5",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/autenticacion-segura",
+      "source_page_id": "autenticacion-segura",
+      "link_text": "Control de acceso y autorización",
+      "url": "https://developers.mercadolibre.com.co/es_ar/control-de-acceso-y-autorizacion",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/control-de-acceso-y-autorizacion",
+      "source_page_id": "control-de-acceso-y-autorizacion",
+      "link_text": "Seguridad de aplicaciones",
+      "url": "https://developers.mercadolibre.com.co/es_ar/seguridad-apps",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/gestion-de-identidades-y-accesos-oauth-y-tokens",
+      "source_page_id": "gestion-de-identidades-y-accesos-oauth-y-tokens",
+      "link_text": "Autenticación segura",
+      "url": "https://developers.mercadolibre.com.co/es_ar/autenticacion-segura",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/infraestructura",
+      "source_page_id": "infraestructura",
+      "link_text": "Gestión de Identidades y Accesos",
+      "url": "https://developers.mercadolibre.com.co/es_ar/gestion-de-identidades-y-accesos-oauth-y-tokens",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/introduccion-seguridad",
+      "source_page_id": "introduccion-seguridad",
+      "link_text": "Infraestructura: Cifrado y seguridad de transporte",
+      "url": "https://developers.mercadolibre.com.co/es_ar/infraestructura",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/monitoreo",
+      "source_page_id": "monitoreo",
+      "link_text": "Gestión de incidentes",
+      "url": "https://developers.mercadolibre.com.co/es_ar/gestion-de-incidentes",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/seguridad-apps",
+      "source_page_id": "seguridad-apps",
+      "link_text": "Monitoreo",
+      "url": "https://developers.mercadolibre.com.co/es_ar/monitoreo",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/atributos-inmuebles",
+      "source_page_id": "atributos-inmuebles",
+      "link_text": "Categorías",
+      "url": "https://developers.mercadolibre.com.co/es_co/%E2%80%9Chttps://developers.mercadolibre.com.ar/es_ar/categorias-inmuebles%E2%80%9D",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/atributos-inmuebles",
+      "source_page_id": "atributos-inmuebles",
+      "link_text": "guía",
+      "url": "https://developers.mercadolibre.com.co/es_co/%E2%80%9Chttps://developers.mercadolibre.com.ar/es_ar/gestionar-paquetes-de-inmuebles%E2%80%9D",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/atributos-inmuebles",
+      "source_page_id": "atributos-inmuebles",
+      "link_text": "descripción de productos",
+      "url": "https://developers.mercadolibre.com.co/es_ar/descripcion-de-articulos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/atributos-inmuebles",
+      "source_page_id": "atributos-inmuebles",
+      "link_text": "Gestiona preguntas y respuestas",
+      "url": "https://developers.mercadolibre.com.co/es_ar/gestiona-preguntas-respuestas",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/atributos-inmuebles",
+      "source_page_id": "atributos-inmuebles",
+      "link_text": "categorías",
+      "url": "https://developers.mercadolibre.com.co/es_co/%E2%80%9Chttps://developers.mercadolibre.com.ar/es_ar/categorias-inmuebles%E2%80%9D",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/contratacion-de-paquetes-de-publicacion",
+      "source_page_id": "contratacion-de-paquetes-de-publicacion",
+      "link_text": "formulario de contacto",
+      "url": "https://developers.mercadolibre.com.co/es_co/%E2%80%9Chttps://forms.gle/nmnCFkikCJKJcaec9%E2%80%9D",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/experiencia-para-inmuebles",
+      "source_page_id": "experiencia-para-inmuebles",
+      "link_text": "notificación de estados de agenda",
+      "url": "https://developers.mercadolibre.com.co/es_ar/experiencia-para-inmuebles?nocache=true#APIs",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/paquetes-y-permisos-para-proyectos-desarrollos-o-emprendimientos-inmobiliarios",
+      "source_page_id": "paquetes-y-permisos-para-proyectos-desarrollos-o-emprendimientos-inmobiliarios",
+      "link_text": "Variaciones",
+      "url": "https://developers.mercadolibre.com.co/es_co/%E2%80%9Chttps://developers.mercadolibre.com.ar/es_ar/variaciones-para-inmuebles%E2%80%9D",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/paquetes-y-permisos-para-proyectos-desarrollos-o-emprendimientos-inmobiliarios",
+      "source_page_id": "paquetes-y-permisos-para-proyectos-desarrollos-o-emprendimientos-inmobiliarios",
+      "link_text": "Desarrollos inmobiliarios",
+      "url": "https://developers.mercadolibre.com.co/es_co/%E2%80%9Chttps://developers.mercadolibre.com.ar/es_ar/desarrollos-inmobiliarios%E2%80%9D",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/pasos-rapidos-para-publicar-un-inmueble-de-prueba",
+      "source_page_id": "pasos-rapidos-para-publicar-un-inmueble-de-prueba",
+      "link_text": "Publica inmuebles",
+      "url": "https://developers.mercadolibre.com.co/es_co/%E2%80%9Chttps://developers.mercadolibre.com.ar/es_ar/publica-inmueble%E2%80%9D",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/solicitud-de-visita",
+      "source_page_id": "solicitud-de-visita",
+      "link_text": "Colombia",
+      "url": "https://developers.mercadolibre.com.co/devcenter/",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/display",
+      "source_page_id": "display",
+      "link_text": "Vehículos",
+      "url": "https://developers.mercadolibre.com.co/es_ar/introduccion-vehiculos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/display",
+      "source_page_id": "display",
+      "link_text": "Inmuebles",
+      "url": "https://developers.mercadolibre.com.co/es_co/es_ar/experiencia-para-inmuebles",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/display",
+      "source_page_id": "display",
+      "link_text": "Servicios",
+      "url": "https://developers.mercadolibre.com.co/es_co/es_ar/guia-para-servicios",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/product-ads-para-catalogo-y-user-products-lectura",
+      "source_page_id": "product-ads-para-catalogo-y-user-products-lectura",
+      "link_text": "Prices API",
+      "url": "https://developers.mercadolibre.com.co/es_ar/api-de-precios#Obtener-precio-de-venta-actual",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/product-ads-para-catalogo-y-user-products-lectura",
+      "source_page_id": "product-ads-para-catalogo-y-user-products-lectura",
+      "link_text": "item con manufacturing_time",
+      "url": "https://developers.mercadolibre.com.co/es_ar/producto-sincroniza-modifica-publicaciones#Agregar-tiempo-de-disponibilidad-de-stock",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/product-ads-para-catalogo-y-user-products-lectura",
+      "source_page_id": "product-ads-para-catalogo-y-user-products-lectura",
+      "link_text": "User Product",
+      "url": "https://developers.mercadolibre.com.co/es_ar/user-products",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/buscador-de-productos",
+      "source_page_id": "buscador-de-productos",
+      "link_text": "Cómo publicar",
+      "url": "https://developers.mercadolibre.com.co/es_ar/publicacion-en-catalogo",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/pix",
+      "source_page_id": "pix",
+      "link_text": "No offers found for item:",
+      "url": "https://developers.mercadolibre.com.co/es_co/AGREGAR_LINK",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/pix",
+      "source_page_id": "pix",
+      "link_text": "Invalid promotion type:",
+      "url": "https://developers.mercadolibre.com.co/es_co/AGREGAR_LINK",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/campanas-co-fondeadas",
+      "source_page_id": "campanas-co-fondeadas",
+      "link_text": "Campañas con descuento por volumen",
+      "url": "https://developers.mercadolibre.com.co/es_ar/campanas-con-descuento-por-volumen",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/campanas-con-descuento-por-cantidad",
+      "source_page_id": "campanas-con-descuento-por-cantidad",
+      "link_text": "Descuento pre-acordado por ítem",
+      "url": "https://developers.mercadolibre.com.co/es_ar/descuento-pre-acordado-por-item",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/deals",
+      "source_page_id": "deals",
+      "link_text": "GET /seller-promotions/promotions/$PROMOTION_ID/items",
+      "url": "https://developers.mercadolibre.com.co/es_co/deals#Consultar-items-de-una-campa%C3%B1a",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/deals",
+      "source_page_id": "deals",
+      "link_text": "Campañas co-fondeadas",
+      "url": "https://developers.mercadolibre.com.co/es_ar/campanas-co-fondeadas",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/catalogo-reacondicionados",
+      "source_page_id": "catalogo-reacondicionados",
+      "link_text": "API de elegibilidad",
+      "url": "https://developers.mercadolibre.com.co/elegibilidad-de-catalogo",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/catalogo-reacondicionados",
+      "source_page_id": "catalogo-reacondicionados",
+      "link_text": "detalle del producto",
+      "url": "https://developers.mercadolibre.com.co/buscador-de-productos#:~:text=products/%7Bproduct_id%7D).-,Detalles%20de%20productos,-Una%20vez%20identificado",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/catalogo-reacondicionados",
+      "source_page_id": "catalogo-reacondicionados",
+      "link_text": "Competencia",
+      "url": "https://developers.mercadolibre.com.co/competencia-en-catalogo",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/categoriza-productos",
+      "source_page_id": "categoriza-productos",
+      "link_text": "predictor de categorías",
+      "url": "https://developers.mercadolibre.com.co/es_co/categoriza-productos#Predictor-de-categorias",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/categoriza-productos",
+      "source_page_id": "categoriza-productos",
+      "link_text": "descargando la jerarquía completa de categorías con ID",
+      "url": "https://developers.mercadolibre.com.co/es_ar/descarga-de-categorias",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/categoriza-productos",
+      "source_page_id": "categoriza-productos",
+      "link_text": "descargar el árbol de categorías",
+      "url": "https://developers.mercadolibre.com.co/es_ar/descarga-de-categorias",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/categoriza-productos",
+      "source_page_id": "categoriza-productos",
+      "link_text": "Publica productos",
+      "url": "https://developers.mercadolibre.com.co/es_ar/publica-productos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/campanas-smart-price-matching",
+      "source_page_id": "campanas-smart-price-matching",
+      "link_text": "GET /seller-promotions/promotions/$PROMOTION_ID/items",
+      "url": "https://developers.mercadolibre.com.co/es_co/campanas-smart-price-matching#Consultar-%C3%ADtems-en-una-campa%C3%B1a",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/compatibilidades-entre-items-y-productos",
+      "source_page_id": "compatibilidades-entre-items-y-productos",
+      "link_text": "identificar ítems que requieren compatibilizarse",
+      "url": "https://developers.mercadolibre.com.co/es_ar/compatibilidades-entre-items-y-productos?nocache=true#Identificar-%C3%ADtems-que-requieren-compatibilizarse",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/compatibilidades-entre-items-y-productos",
+      "source_page_id": "compatibilidades-entre-items-y-productos",
+      "link_text": "identificar compatibilidades sugeridas",
+      "url": "https://developers.mercadolibre.com.co/es_ar/referencias-de-dominios-productos-y-atributos-para-autopartes#Identificar-compatibilidades-sugeridas",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/compatibilidades-entre-items-y-productos",
+      "source_page_id": "compatibilidades-entre-items-y-productos",
+      "link_text": "Conocer compatibilidades que generan reclamos",
+      "url": "https://developers.mercadolibre.com.co/es_ar/compatibilidades-entre-items-y-productos#Conocer-compatibilidades-que-generan-reclamos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/compatibilidades-entre-items-y-productos",
+      "source_page_id": "compatibilidades-entre-items-y-productos",
+      "link_text": "sugerencias",
+      "url": "https://developers.mercadolibre.com.co/es_ar/referencias-de-dominios-productos-y-atributos-para-autopartes#:~:text=%3A%201%0A%7D-,Identificar%20compatibilidades%20sugeridas,-Para%20poder%20mantener",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/compatibilidades-entre-items-y-productos",
+      "source_page_id": "compatibilidades-entre-items-y-productos",
+      "link_text": "vehículos nuevos.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/referencias-de-dominios-productos-y-atributos-para-autopartes#:~:text=%3A%20180%0A%7D-,Identificar%20veh%C3%ADculos%20nuevos,-Para%20poder%20mantener",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/compatibilidades-entre-items-y-productos",
+      "source_page_id": "compatibilidades-entre-items-y-productos",
+      "link_text": "consulta el endpoint GET /v1/claims/search?reason_id=$reason_id",
+      "url": "https://developers.mercadolibre.com.co/es_ar/trabajar-con-reclamos#Busqueda-de-reclamos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/compatibilidades-entre-items-y-productos",
+      "source_page_id": "compatibilidades-entre-items-y-productos",
+      "link_text": "realizando un get al recurso /catalog_compatibilities/products_search/new?categoryId=$CATEGORY_ID",
+      "url": "https://developers.mercadolibre.com.co/es_ar/referencias-de-dominios-productos-y-atributos-para-autopartes?nocache=true#Obtener-los-productos-nuevos-del-cat%C3%A1logo",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/compatibilidades-entre-items-y-productos",
+      "source_page_id": "compatibilidades-entre-items-y-productos",
+      "link_text": "Referencias de dominios, productos y atributos para Autopartes",
+      "url": "https://developers.mercadolibre.com.co/es_ar/referencias-de-dominios-productos-y-atributos-para-autopartes",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/competencia-en-catalogo",
+      "source_page_id": "competencia-en-catalogo",
+      "link_text": "recibir notificaciones",
+      "url": "https://developers.mercadolibre.com.co/es_ar/productos-recibe-notificaciones",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/competencia-en-catalogo",
+      "source_page_id": "competencia-en-catalogo",
+      "link_text": "Mercado Envíos Full",
+      "url": "https://developers.mercadolibre.com.co/es_ar/mercado-envios-full-fulfillment",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/competencia-en-catalogo",
+      "source_page_id": "competencia-en-catalogo",
+      "link_text": "frete grátis",
+      "url": "https://developers.mercadolibre.com.co/es_ar/enviogratis",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/competencia-en-catalogo",
+      "source_page_id": "competencia-en-catalogo",
+      "link_text": "Mercado Envíos Coleta",
+      "url": "https://developers.mercadolibre.com.co/es_ar/envios-colecta-cross-docking",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/competencia-en-catalogo",
+      "source_page_id": "competencia-en-catalogo",
+      "link_text": "endpoint de price_to_win",
+      "url": "https://developers.mercadolibre.com.co/es_ar/competencia-en-catalogo?nocache=true#Detalle-de-la-competencia",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/competencia-en-catalogo",
+      "source_page_id": "competencia-en-catalogo",
+      "link_text": "Brand Central",
+      "url": "https://developers.mercadolibre.com.co/es_ar/brand-central",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/convivencia-full-y-flex",
+      "source_page_id": "convivencia-full-y-flex",
+      "link_text": "formas de envío Flex y Fulfillment",
+      "url": "https://developers.mercadolibre.com.co/es_ar/mercadoenvios-modo-2#Tipos-logisticas",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/costos-de-envios",
+      "source_page_id": "costos-de-envios",
+      "link_text": "ME1",
+      "url": "https://developers.mercadolibre.com.co/es_ar/mercadoenvios-modo-1",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/costos-de-envios",
+      "source_page_id": "costos-de-envios",
+      "link_text": "contingencia para la integración de flete dinámico",
+      "url": "https://developers.mercadolibre.com.co/es_ar/flete-dinamico#Contingencia-Mercado-Libre",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/comision-por-vender",
+      "source_page_id": "comision-por-vender",
+      "link_text": "Documentación",
+      "url": "https://developers.mercadolibre.com.co/es_co/comision-por-vender#",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/reportes-descargas",
+      "source_page_id": "reportes-descargas",
+      "link_text": "Percepciones",
+      "url": "https://developers.mercadolibre.com.co/es_ar/resumen-percepciones",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/descripcion-de-articulos",
+      "source_page_id": "descripcion-de-articulos",
+      "link_text": "editar una descripción existente",
+      "url": "https://developers.mercadolibre.com.co/es_ar/descripcion-de-articulos#Reemplaza-una-descripcion-existente",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/descripcion-de-articulos",
+      "source_page_id": "descripcion-de-articulos",
+      "link_text": "características personalizadas",
+      "url": "https://developers.mercadolibre.com.co/es_ar/variaciones#Caracter%C3%ADstica-personalizada",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/descuento-individual",
+      "source_page_id": "descuento-individual",
+      "link_text": "Ofertas del día",
+      "url": "https://developers.mercadolibre.com.co/es_ar/ofertas-del-dia",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/elegibilidad-catalogo",
+      "source_page_id": "elegibilidad-catalogo",
+      "link_text": "Buscador productos",
+      "url": "https://developers.mercadolibre.com.co/es_ar/buscador-de-productos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios",
+      "source_page_id": "envios",
+      "link_text": "notificaciones",
+      "url": "https://developers.mercadolibre.com.co/es_ar/productos-recibe-notificaciones",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios",
+      "source_page_id": "envios",
+      "link_text": "ME1",
+      "url": "https://developers.mercadolibre.com.co/es_ar/mercadoenvios-modo-1",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios",
+      "source_page_id": "envios",
+      "link_text": "detalle de stock",
+      "url": "https://developers.mercadolibre.com.co/es_ar/stock-multi-origen#Obtener-detalle-de-stock",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios",
+      "source_page_id": "envios",
+      "link_text": "variaciones",
+      "url": "https://developers.mercadolibre.com.co/es_ar/variaciones",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios",
+      "source_page_id": "envios",
+      "link_text": "tópico correspondiente",
+      "url": "https://developers.mercadolibre.com.co/es_ar/envios?nocache=true#Plazo-m%C3%A1ximo-de-despacho-(SLA)",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios",
+      "source_page_id": "envios",
+      "link_text": "los costos de envío y handling time",
+      "url": "https://developers.mercadolibre.com.co/es_ar/costos-de-envio-y-handling-time",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios",
+      "source_page_id": "envios",
+      "link_text": "Modos de Envíos",
+      "url": "https://developers.mercadolibre.com.co/es_ar/mercado-envios",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios",
+      "source_page_id": "envios",
+      "link_text": "Gestionar órdenes de Carrito",
+      "url": "https://developers.mercadolibre.com.co/es_ar/gestion-packs",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios-colectas-places",
+      "source_page_id": "envios-colectas-places",
+      "link_text": "Solicitud para activar Colecta a cuenta test",
+      "url": "https://developers.mercadolibre.com.co/support",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios-colectas-places",
+      "source_page_id": "envios-colectas-places",
+      "link_text": "Multi Origen",
+      "url": "https://developers.mercadolibre.com.co/es_co/es_ar/stock-multi-origen#Gestion-de-vendedores",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios-colectas-places",
+      "source_page_id": "envios-colectas-places",
+      "link_text": "Novedades de vendedores",
+      "url": "https://developers.mercadolibre.com.co/es_co/envios-colectas-places#",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios-colectas-places",
+      "source_page_id": "envios-colectas-places",
+      "link_text": "Manufacturing Time",
+      "url": "https://developers.mercadolibre.com.co/es_co/envios-colectas-places#",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios-colectas-places",
+      "source_page_id": "envios-colectas-places",
+      "link_text": "Preguntas frecuentes sobre el tiempo de preparación",
+      "url": "https://developers.mercadolibre.com.co/es_co/envios-colectas-places#",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios-colectas-places",
+      "source_page_id": "envios-colectas-places",
+      "link_text": "Para qué me sirve ajustarlo",
+      "url": "https://developers.mercadolibre.com.co/es_co/envios-colectas-places#",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios-colectas-places",
+      "source_page_id": "envios-colectas-places",
+      "link_text": "Hasta cuándo puedo modificarlo en el día",
+      "url": "https://developers.mercadolibre.com.co/es_co/envios-colectas-places#",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios-colectas-places",
+      "source_page_id": "envios-colectas-places",
+      "link_text": "Cómo lo modifico si tengo más de una colecta en el día",
+      "url": "https://developers.mercadolibre.com.co/es_co/envios-colectas-places#",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios-colectas-places",
+      "source_page_id": "envios-colectas-places",
+      "link_text": "Por qué hay días con menos opciones de tiempo de preparación",
+      "url": "https://developers.mercadolibre.com.co/es_co/envios-colectas-places#",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios-colectas-places",
+      "source_page_id": "envios-colectas-places",
+      "link_text": "preferencia de envío",
+      "url": "https://developers.mercadolibre.com.co/es_co/es_ar/mercado-envios#preferencias-de-envio-de-un-usuario",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios-flex",
+      "source_page_id": "envios-flex",
+      "link_text": "Consultar/Actualizar zonas de cobertura",
+      "url": "https://developers.mercadolibre.com.co/es_co/envios-flex#",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios-flex",
+      "source_page_id": "envios-flex",
+      "link_text": "same_day",
+      "url": "https://developers.mercadolibre.com.co/es_co/AGREGAR_LINK",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios-flex",
+      "source_page_id": "envios-flex",
+      "link_text": "next_day",
+      "url": "https://developers.mercadolibre.com.co/es_co/AGREGAR_LINK",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios-flex",
+      "source_page_id": "envios-flex",
+      "link_text": "show_availables=true",
+      "url": "https://developers.mercadolibre.com.co/es_co/AGREGAR_LINK",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios-flex",
+      "source_page_id": "envios-flex",
+      "link_text": "día",
+      "url": "https://developers.mercadolibre.com.co/es_co/AGREGAR_LINK",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios-flex",
+      "source_page_id": "envios-flex",
+      "link_text": "Convivencia Full y Flex",
+      "url": "https://developers.mercadolibre.com.co/es_co/es_ar/convivencia-full-y-flex",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios-flex",
+      "source_page_id": "envios-flex",
+      "link_text": "instrucción de Activar Flex.",
+      "url": "https://developers.mercadolibre.com.co/es_co/envios-flex#Activar-Flex-en-el-%C3%ADtem",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/envios-flex",
+      "source_page_id": "envios-flex",
+      "link_text": "Envios Turbo",
+      "url": "https://developers.mercadolibre.com.co/es_ar/envios-turbo",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/estados-de-ordenes-me1",
+      "source_page_id": "estados-de-ordenes-me1",
+      "link_text": "Flete dinámico",
+      "url": "https://developers.mercadolibre.com.co/es_ar/flete-dinamico",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/experiencia-de-compra",
+      "source_page_id": "experiencia-de-compra",
+      "link_text": "/health",
+      "url": "https://developers.mercadolibre.com.co/es_ar/calidad-de-publicaciones",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/feedback-sobre-venta",
+      "source_page_id": "feedback-sobre-venta",
+      "link_text": "Datos de facturación",
+      "url": "https://developers.mercadolibre.com.co/es_ar/facturacion",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/flete-dinamico",
+      "source_page_id": "flete-dinamico",
+      "link_text": "Developer Partner Program",
+      "url": "https://developers.mercadolibre.com.co/es_ar/developer-partner-program",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/flete-dinamico",
+      "source_page_id": "flete-dinamico",
+      "link_text": "documentación",
+      "url": "https://developers.mercadolibre.com.co/es_ar/envios",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/mensajeria-post-venta",
+      "source_page_id": "mensajeria-post-venta",
+      "link_text": "Obtener mensajes de un paquete",
+      "url": "https://developers.mercadolibre.com.co/es_co/mensajeria-post-venta#Obtener-mensajes-de-un-paquete",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/mensajeria-post-venta",
+      "source_page_id": "mensajeria-post-venta",
+      "link_text": "tabla de IDs de los Agentes",
+      "url": "https://developers.mercadolibre.com.co/es_co/mensajeria-post-venta#nova-arquitetura",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/mensajeria-post-venta",
+      "source_page_id": "mensajeria-post-venta",
+      "link_text": "Cargar y guardar un anexo",
+      "url": "https://developers.mercadolibre.com.co/es_co/mensajeria-post-venta#Cargar-salvar-un-anexo",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/mercado-envios",
+      "source_page_id": "mercado-envios",
+      "link_text": "Mercado Envíos Drop_off",
+      "url": "https://developers.mercadolibre.com.co/es_co/mercadoenvios-modo-2",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/mercado-envios",
+      "source_page_id": "mercado-envios",
+      "link_text": "Mercado Envíos Colectas (cross_docking) y Places (xd_drop_off)",
+      "url": "https://developers.mercadolibre.com.co/es_co/envios-colectas-places",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/mercado-envios",
+      "source_page_id": "mercado-envios",
+      "link_text": "Mercado Envíos Flex (self_service)",
+      "url": "https://developers.mercadolibre.com.co/es_co/envios-flex",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/mercado-envios",
+      "source_page_id": "mercado-envios",
+      "link_text": "Mercado Envíos Turbo (turbo)",
+      "url": "https://developers.mercadolibre.com.co/es_co/envios-turbo",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/mercado-envios",
+      "source_page_id": "mercado-envios",
+      "link_text": "Mercado Envíos Full (fulfillment)",
+      "url": "https://developers.mercadolibre.com.co/es_co/envios-fulfillment",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/guias-de-talles",
+      "source_page_id": "guias-de-talles",
+      "link_text": "ficha técnica",
+      "url": "https://developers.mercadolibre.com.co/es_ar/primeros-pasos-es#Consultar-ficha-tecnica",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/guias-de-talles",
+      "source_page_id": "guias-de-talles",
+      "link_text": "especificando atributos de medidas de prenda",
+      "url": "https://developers.mercadolibre.com.co/es_ar/guias-de-talles?nocache=true#Crear-gu%C3%ADas-con-medidas-de-prenda",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/guias-de-talles",
+      "source_page_id": "guias-de-talles",
+      "link_text": "TOPS and BOTTOMS",
+      "url": "https://developers.mercadolibre.com.co/es_ar/primeros-pasos-es#Dominios-disponibles",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/guias-de-talles",
+      "source_page_id": "guias-de-talles",
+      "link_text": "consultar la ficha técnica de la guía de talles",
+      "url": "https://developers.mercadolibre.com.co/es_ar/primeros-pasos-es#Consultar-ficha-tecnica",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/guias-de-talles",
+      "source_page_id": "guias-de-talles",
+      "link_text": "crear la guía de talles",
+      "url": "https://developers.mercadolibre.com.co/es_ar/guias-de-talles?nocache=true#Crear-gu%C3%ADa-de-talles-personalizadas",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/guias-de-talles",
+      "source_page_id": "guias-de-talles",
+      "link_text": "consultar o seu status",
+      "url": "https://developers.mercadolibre.com.co/es_ar/guias-de-talles#:~:text=%5D%0A%7D%27-,Consultar%20una%20gu%C3%ADa%20de%20talles,-Podr%C3%A1s%20consultar%20una",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/guias-de-talles",
+      "source_page_id": "guias-de-talles",
+      "link_text": "actualizando la Guía de Talles y sus variaciones",
+      "url": "https://developers.mercadolibre.com.co/es_ar/producto-sincroniza-modifica-publicaciones",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/guias-de-talles",
+      "source_page_id": "guias-de-talles",
+      "link_text": "Validación de guía de talles",
+      "url": "https://developers.mercadolibre.com.co/es_ar/validacion-de-guia-de-talles",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones",
+      "source_page_id": "central-de-promociones",
+      "link_text": "Consultar ítems de la promoción",
+      "url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones#Consultar-items-de-la-promoci%C3%B3n",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones",
+      "source_page_id": "central-de-promociones",
+      "link_text": "Consultar promociones del ítem",
+      "url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones#Consultar-promociones-del-item",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones",
+      "source_page_id": "central-de-promociones",
+      "link_text": "estado de la oferta",
+      "url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones#Estado",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones",
+      "source_page_id": "central-de-promociones",
+      "link_text": "public offers",
+      "url": "https://developers.mercadolibre.com.co/es_ar/productos-recibe-notificaciones?#public-offers",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones",
+      "source_page_id": "central-de-promociones",
+      "link_text": "Indicando ítems para una campaña tradicional",
+      "url": "https://developers.mercadolibre.com.co/es_ar/deals?#Indicar-%C3%ADtems-para-una-campa%C3%B1a-tradicional",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones",
+      "source_page_id": "central-de-promociones",
+      "link_text": "Indicando ítems para una campaña co-fondeada",
+      "url": "https://developers.mercadolibre.com.co/es_ar/campanas-co-fondeadas?#Indicar-%C3%ADtems-para-una-campa%C3%B1a-co-fondeada",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones",
+      "source_page_id": "central-de-promociones",
+      "link_text": "Indicando ítems para descuento por volumen",
+      "url": "https://developers.mercadolibre.com.co/es_ar/campanas-con-descuento-por-volumen#Indicar-%C3%ADtems-para-una-campa%C3%B1a-con-descuento-por-volumen",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones",
+      "source_page_id": "central-de-promociones",
+      "link_text": "Aceptando descuento pre-acordado por ítem",
+      "url": "https://developers.mercadolibre.com.co/es_ar/descuento-pre-acordado-por-item#Aceptar-descuentopre-acordado-por-%C3%ADtem",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones",
+      "source_page_id": "central-de-promociones",
+      "link_text": "Indicando ítems para una oferta del día",
+      "url": "https://developers.mercadolibre.com.co/es_ar/ofertas-del-dia#Indicar-%C3%ADtems-para-una-oferta-del-d%C3%ADa",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones",
+      "source_page_id": "central-de-promociones",
+      "link_text": "Indicando ítems para una oferta relámpago",
+      "url": "https://developers.mercadolibre.com.co/es_ar/ofertas-relampago#Indicar-%C3%ADtems-para-una-oferta-rel%C3%A1mpago",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones",
+      "source_page_id": "central-de-promociones",
+      "link_text": "Ofreciendo un descuento individual para un ítem",
+      "url": "https://developers.mercadolibre.com.co/es_ar/descuento-individual#Ofrecer-un-descuento-para-un-%C3%ADtem",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones",
+      "source_page_id": "central-de-promociones",
+      "link_text": "Indicando items para una campaña del vendedor.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/campanas-del-vendedor?nocache=true#",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones",
+      "source_page_id": "central-de-promociones",
+      "link_text": "Indicando items para una campaña smart.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/campanas-smart?nocache=true",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones",
+      "source_page_id": "central-de-promociones",
+      "link_text": "Modificando ítems en una campaña tradicional",
+      "url": "https://developers.mercadolibre.com.co/es_ar/deals?#Modificar-%C3%ADtems",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones",
+      "source_page_id": "central-de-promociones",
+      "link_text": "Modificando ítems en una campaña co-fondeada",
+      "url": "https://developers.mercadolibre.com.co/es_co/es_ar/campanas-co-fondeadas?#Modificar-%C3%ADtems",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones",
+      "source_page_id": "central-de-promociones",
+      "link_text": "Modificando ítems en una campaña con descuento por volumen",
+      "url": "https://developers.mercadolibre.com.co/es_ar/campanas-con-descuento-por-volumen#Modificar-%C3%ADtems",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones",
+      "source_page_id": "central-de-promociones",
+      "link_text": "Eliminando ítems en una campaña tradicional",
+      "url": "https://developers.mercadolibre.com.co/es_ar/deals?#Eliminar-%C3%ADtems",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones",
+      "source_page_id": "central-de-promociones",
+      "link_text": "Eliminando ítems en una campaña co-fondeada",
+      "url": "https://developers.mercadolibre.com.co/es_ar/campanas-co-fondeadas?#Eliminar-%C3%ADtems",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones",
+      "source_page_id": "central-de-promociones",
+      "link_text": "Eliminando ítems en una campaña con descuento por volumen",
+      "url": "https://developers.mercadolibre.com.co/es_ar/campanas-con-descuento-por-volumen#Eliminar-%C3%ADtems",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones",
+      "source_page_id": "central-de-promociones",
+      "link_text": "Eliminando descuento pre-acordado por ítem",
+      "url": "https://developers.mercadolibre.com.co/es_ar/descuento-pre-acordado-por-item#Eliminar-%C3%ADtems",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones",
+      "source_page_id": "central-de-promociones",
+      "link_text": "Eliminando ítems en una oferta del día",
+      "url": "https://developers.mercadolibre.com.co/es_ar/ofertas-del-dia#Eliminar%20%C3%ADtems",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones",
+      "source_page_id": "central-de-promociones",
+      "link_text": "Eliminando ítems en una oferta relámpago",
+      "url": "https://developers.mercadolibre.com.co/es_ar/ofertas-relampago#Eliminar%20%C3%ADtems",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones",
+      "source_page_id": "central-de-promociones",
+      "link_text": "Eliminando descuento individual a un ítem",
+      "url": "https://developers.mercadolibre.com.co/es_ar/descuento-individual?#Eliminar-descuento-individual-a-un-%C3%ADtem",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/central-de-promociones",
+      "source_page_id": "central-de-promociones",
+      "link_text": "Campañas co-fondeadas",
+      "url": "https://developers.mercadolibre.com.co/es_ar/campanas-co-fondeadas",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/identificadores-de-productos",
+      "source_page_id": "identificadores-de-productos",
+      "link_text": "publicar un artículo",
+      "url": "https://developers.mercadolibre.com.co/es_ar/publica-productos#Publica-un-articulo",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/identificadores-de-productos",
+      "source_page_id": "identificadores-de-productos",
+      "link_text": "Variaciones",
+      "url": "https://developers.mercadolibre.com.co/es_ar/variaciones",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/mensajes-pendientes",
+      "source_page_id": "mensajes-pendientes",
+      "link_text": "Mensajes bloqueados",
+      "url": "https://developers.mercadolibre.com.co/es_ar/mensajes-bloqueados",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/mercadoenvios-modo-1",
+      "source_page_id": "mercadoenvios-modo-1",
+      "link_text": "consultar la sección Contingencia Mercado Libre.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/flete-dinamico",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/mercadoenvios-modo-1",
+      "source_page_id": "mercadoenvios-modo-1",
+      "link_text": "consultar la sección activada la modalidad ME1 en su cuenta.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/envio",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/mercadoenvios-modo-1",
+      "source_page_id": "mercadoenvios-modo-1",
+      "link_text": "elegible para ser enviado por ME1.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/mercadoenvios-modo-2",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/mercadoenvios-modo-1",
+      "source_page_id": "mercadoenvios-modo-1",
+      "link_text": "nuestra documentación de órdenes",
+      "url": "https://developers.mercadolibre.com.co/es_ar/gestiona-ventas",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/mercadoenvios-modo-1",
+      "source_page_id": "mercadoenvios-modo-1",
+      "link_text": "usar el recurso de Cargar factura",
+      "url": "https://developers.mercadolibre.com.co/es_ar/cargar-factura",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/mercadoenvios-modo-1",
+      "source_page_id": "mercadoenvios-modo-1",
+      "link_text": "Estados de órdenes y seguimiento",
+      "url": "https://developers.mercadolibre.com.co/es_ar/estados-de-ordenes-me1",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/mercadoenvios-modo-2",
+      "source_page_id": "mercadoenvios-modo-2",
+      "link_text": "Mercado Envíos Colectas (cross_docking) y Places (xd_drop_off)",
+      "url": "https://developers.mercadolibre.com.co/es_co/envios-colectas-places",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/mercadoenvios-modo-2",
+      "source_page_id": "mercadoenvios-modo-2",
+      "link_text": "Mercado Envíos Flex (self_service)",
+      "url": "https://developers.mercadolibre.com.co/es_co/envios-flex",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/mercadoenvios-modo-2",
+      "source_page_id": "mercadoenvios-modo-2",
+      "link_text": "Mercado Envíos Full (fulfillment)",
+      "url": "https://developers.mercadolibre.com.co/es_co/envios-fulfillment",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/mercadoenvios-modo-2",
+      "source_page_id": "mercadoenvios-modo-2",
+      "link_text": "Costos de envío",
+      "url": "https://developers.mercadolibre.com.co/es_ar/costos-de-envios",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/motivos-para-comunicarse",
+      "source_page_id": "motivos-para-comunicarse",
+      "link_text": "blocked_by_conversation_started_by_seller",
+      "url": "https://developers.mercadolibre.com.co/es_ar/mensajes-bloqueados",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/motivos-para-comunicarse",
+      "source_page_id": "motivos-para-comunicarse",
+      "link_text": "utilizar la mensajería posventa sin restricciones",
+      "url": "https://developers.mercadolibre.com.co/es_ar/mensajeria-post-venta#Crear-mensajes",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/motivos-para-comunicarse",
+      "source_page_id": "motivos-para-comunicarse",
+      "link_text": "Gestión de mensajes",
+      "url": "https://developers.mercadolibre.com.co/es_ar/mensajeria-post-venta",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/notas-en-ordenes",
+      "source_page_id": "notas-en-ordenes",
+      "link_text": "Bloqueo de usuarios",
+      "url": "https://developers.mercadolibre.com.co/es_ar/usuarios-bloqueados",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/ofertas-del-dia",
+      "source_page_id": "ofertas-del-dia",
+      "link_text": "Ofertas relámpago",
+      "url": "https://developers.mercadolibre.com.co/es_ar/ofertas-relampago",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/ofertas-relampago",
+      "source_page_id": "ofertas-relampago",
+      "link_text": "(Ver estados)",
+      "url": "https://developers.mercadolibre.com.co/es_ar/ofertas-relampago#Estado-del-%C3%ADtem",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/ofertas-relampago",
+      "source_page_id": "ofertas-relampago",
+      "link_text": "Campañas del vendedor",
+      "url": "https://developers.mercadolibre.com.co/es_ar/campanas-del-vendedor",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/opiniones-sobre-producto",
+      "source_page_id": "opiniones-sobre-producto",
+      "link_text": "Evaluaciones de ítems de catálogo",
+      "url": "https://developers.mercadolibre.com.co/es_co/opiniones-sobre-producto#evaluaciones-de-items-de-catalogo",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/gestiona-ventas",
+      "source_page_id": "gestiona-ventas",
+      "link_text": "Ver los valores posibles",
+      "url": "https://developers.mercadolibre.com.co/es_ar/gestiona-ventas#Estado-de-la-orden",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/gestiona-ventas",
+      "source_page_id": "gestiona-ventas",
+      "link_text": "/packs",
+      "url": "https://developers.mercadolibre.com.co/es_ar/ordenes-de-carrito#Consultar-ventas-de-un-carrito",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/pagos",
+      "source_page_id": "pagos",
+      "link_text": "recibir notificaciones de pagos",
+      "url": "https://developers.mercadolibre.com.co/es_ar/productos-recibe-notificaciones#Suscr%C3%ADbete-notificaciones",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/pagos",
+      "source_page_id": "pagos",
+      "link_text": "tópico payments",
+      "url": "https://developers.mercadolibre.com.co/es_ar/productos-recibe-notificaciones#payments",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/pagos",
+      "source_page_id": "pagos",
+      "link_text": "Feedback de una venta",
+      "url": "https://developers.mercadolibre.com.co/es_ar/feedback-sobre-venta",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/reportes-pagos",
+      "source_page_id": "reportes-pagos",
+      "link_text": "Descargas",
+      "url": "https://developers.mercadolibre.com.co/es_ar/reportes-descargas",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/descuento-pre-acordado-por-item",
+      "source_page_id": "descuento-pre-acordado-por-item",
+      "link_text": "/seller-promotions/promotions/$PROMOTION_ID/items",
+      "url": "https://developers.mercadolibre.com.co/es_co/descuento-pre-acordado-por-item#Consultar-%C3%ADtems-en-una-campa%C3%B1a",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/descuento-pre-acordado-por-item",
+      "source_page_id": "descuento-pre-acordado-por-item",
+      "link_text": "Descuento individual",
+      "url": "https://developers.mercadolibre.com.co/es_ar/descuento-individual",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/precio-por-cantidad",
+      "source_page_id": "precio-por-cantidad",
+      "link_text": "/items/$ITEM_ID/prices",
+      "url": "https://developers.mercadolibre.com.co/es_co/AGREGAR_LINK_ITEMS",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/precio-variacion",
+      "source_page_id": "precio-variacion",
+      "link_text": "Conceptos importantes.",
+      "url": "https://developers.mercadolibre.com.co/es_co/es_ar/user-products?nocache=true#conceptos-importantes",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/precio-variacion",
+      "source_page_id": "precio-variacion",
+      "link_text": "Precios de productos.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/api-de-precios",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/precio-variacion",
+      "source_page_id": "precio-variacion",
+      "link_text": "PUT al recurso /items.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/producto-sincroniza-modifica-publicaciones",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/precio-variacion",
+      "source_page_id": "precio-variacion",
+      "link_text": "publicaciones en catalogo.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/publicacion-en-catalogo",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/precio-variacion",
+      "source_page_id": "precio-variacion",
+      "link_text": "Stock Distribuido",
+      "url": "https://developers.mercadolibre.com.co/es_ar/stock-distribuido",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/api-de-precios",
+      "source_page_id": "api-de-precios",
+      "link_text": "crear un item",
+      "url": "https://developers.mercadolibre.com.co/es_ar/publica-productos#Publica-un-articulo",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/api-de-precios",
+      "source_page_id": "api-de-precios",
+      "link_text": "editarlo",
+      "url": "https://developers.mercadolibre.com.co/es_ar/producto-sincroniza-modifica-publicaciones#Consideraciones-para-actualizar-items",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/pxq-porcentaje-b2b",
+      "source_page_id": "pxq-porcentaje-b2b",
+      "link_text": "Recomendaciones de precios",
+      "url": "https://developers.mercadolibre.com.co/es_co/pxq-porcentaje-b2b#Recomendaciones-precios",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/pxq-porcentaje-b2b",
+      "source_page_id": "pxq-porcentaje-b2b",
+      "link_text": "Agregar, modificar y eliminar precio por cantidad",
+      "url": "https://developers.mercadolibre.com.co/es_co/pxq-porcentaje-b2b#Agregar-modificar-eliminar-precio-por-cantidad",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/gestiona-preguntas-respuestas",
+      "source_page_id": "gestiona-preguntas-respuestas",
+      "link_text": "cómo trabajar con notificaciones",
+      "url": "https://developers.mercadolibre.com.co/es_ar/productos-recibe-notificaciones",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/primeros-pasos-es",
+      "source_page_id": "primeros-pasos-es",
+      "link_text": "creación de la guía de talles personalizadas",
+      "url": "https://developers.mercadolibre.com.co/es_ar/guias-de-talles#Crear-gu%C3%ADa-de-talles-personalizadas",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/primeros-pasos-es",
+      "source_page_id": "primeros-pasos-es",
+      "link_text": "crear una guía de talles personalizada",
+      "url": "https://developers.mercadolibre.com.co/es_ar/guias-de-talles?nocache=true#Crear-gu%C3%ADa-de-talles-personalizadas",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/primeros-pasos-es",
+      "source_page_id": "primeros-pasos-es",
+      "link_text": "ficha técnica",
+      "url": "https://developers.mercadolibre.com.co/es_ar/primeros-pasos-es#Consultar-ficha-tecnica",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/primeros-pasos-es",
+      "source_page_id": "primeros-pasos-es",
+      "link_text": "crear guía de talles",
+      "url": "https://developers.mercadolibre.com.co/es_ar/guias-de-talles#Crear-gu%C3%ADa-de-talles-personalizadas",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/primeros-pasos-es",
+      "source_page_id": "primeros-pasos-es",
+      "link_text": "Dominios disponibles para guía de talles",
+      "url": "https://developers.mercadolibre.com.co/es_ar/primeros-pasos-es#Dominios-disponibles",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/primeros-pasos-es",
+      "source_page_id": "primeros-pasos-es",
+      "link_text": "Gestionar guía de talles",
+      "url": "https://developers.mercadolibre.com.co/es_co/es_ar/guias-de-talles",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/recuperacion-reputacion",
+      "source_page_id": "recuperacion-reputacion",
+      "link_text": "api de novedades",
+      "url": "https://developers.mercadolibre.com.co/es_ar/conoce-las-novedades-que-reciben-los-vendedores#Obtener-novedades",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/recuperacion-reputacion",
+      "source_page_id": "recuperacion-reputacion",
+      "link_text": "consultar la reputación del vendedor",
+      "url": "https://developers.mercadolibre.com.co/es_ar/reputacion-de-vendedores?nocache=true",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/recuperacion-reputacion",
+      "source_page_id": "recuperacion-reputacion",
+      "link_text": "Reputación de vendedores",
+      "url": "https://developers.mercadolibre.com.co/es_ar/reputacion-de-vendedores?nocache=true",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/provisiones",
+      "source_page_id": "provisiones",
+      "link_text": "Pagos",
+      "url": "https://developers.mercadolibre.com.co/latam/reportes-facturacion/pagos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publicaciones-requeridas-en-catalogo",
+      "source_page_id": "publicaciones-requeridas-en-catalogo",
+      "link_text": "las publicaciones serán moderadas",
+      "url": "https://developers.mercadolibre.com.co/es_ar/gestionar-moderaciones",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publicaciones-requeridas-en-catalogo",
+      "source_page_id": "publicaciones-requeridas-en-catalogo",
+      "link_text": "Competencia",
+      "url": "https://developers.mercadolibre.com.co/es_ar/competencia-en-catalogo",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publicacion-en-catalogo",
+      "source_page_id": "publicacion-en-catalogo",
+      "link_text": "verificar los cambios en nuestro recurso de /items",
+      "url": "https://developers.mercadolibre.com.co/es_ar/publica-productos#:~:text=no%20longer%20supporte.-,Consultar%20productos,-Nota%3A",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publicacion-en-catalogo",
+      "source_page_id": "publicacion-en-catalogo",
+      "link_text": "pausar/eliminar las publicaciones",
+      "url": "https://developers.mercadolibre.com.co/es_ar/producto-sincroniza-modifica-publicaciones#Elimina-publicaciones",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publicacion-en-catalogo",
+      "source_page_id": "publicacion-en-catalogo",
+      "link_text": "Publicaciones requeridas",
+      "url": "https://developers.mercadolibre.com.co/es_ar/publicaciones-requeridas-en-catalogo",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-productos",
+      "source_page_id": "publica-productos",
+      "link_text": "Crea variantes",
+      "url": "https://developers.mercadolibre.com.co/es_ar/variaciones",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-productos",
+      "source_page_id": "publica-productos",
+      "link_text": "Descubre cómo hacerlo",
+      "url": "https://developers.mercadolibre.com.co/es_ar/central-de-promociones",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-productos",
+      "source_page_id": "publica-productos",
+      "link_text": "tipos de publicación",
+      "url": "https://developers.mercadolibre.com.co/es_ar/tipos-de-publicacion-y-actualizaciones-de-articulos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-productos",
+      "source_page_id": "publica-productos",
+      "link_text": "lee más sobre este tema para conocer qué tipo de imágenes se permiten y cómo trabajar con ellas",
+      "url": "https://developers.mercadolibre.com.co/es_ar/trabajar-con-imagenes",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-productos",
+      "source_page_id": "publica-productos",
+      "link_text": "API de prices",
+      "url": "https://developers.mercadolibre.com.co/es_ar/api-de-precios",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-productos",
+      "source_page_id": "publica-productos",
+      "link_text": "Atributos",
+      "url": "https://developers.mercadolibre.com.co/es_ar/atributos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-productos",
+      "source_page_id": "publica-productos",
+      "link_text": "aquí",
+      "url": "https://developers.mercadolibre.com.co/es_ar/dominios-y-categorias?nocache=true",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-productos",
+      "source_page_id": "publica-productos",
+      "link_text": "guía de talles",
+      "url": "https://developers.mercadolibre.com.co/es_ar/primeros-pasos-es",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-productos",
+      "source_page_id": "publica-productos",
+      "link_text": "validaciones",
+      "url": "https://developers.mercadolibre.com.co/es_ar/validaciones",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-productos",
+      "source_page_id": "publica-productos",
+      "link_text": "Usuario marcado automáticamente",
+      "url": "https://developers.mercadolibre.com.co/es_ar/publica-productos#categorias",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-productos",
+      "source_page_id": "publica-productos",
+      "link_text": "Vendedor “auto” marcado para que sus ventas vayan por este flujo",
+      "url": "https://developers.mercadolibre.com.co/es_ar/producto-consulta-usuarios#Mercado-Pago",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-productos",
+      "source_page_id": "publica-productos",
+      "link_text": "nuestra guía de Tiendas Oficiales para conocer más sobre este tema",
+      "url": "https://developers.mercadolibre.com.co/es_ar/tiendas-oficiales",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/que-es-catalogo",
+      "source_page_id": "que-es-catalogo",
+      "link_text": "Elegibilidad de catálogo",
+      "url": "https://developers.mercadolibre.com.co/es_ar/elegibilidad-catalogo",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/que-es-mensajeria",
+      "source_page_id": "que-es-mensajeria",
+      "link_text": "Motivos para comunicarse.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/motivos-para-comunicarse",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/reputacion-de-vendedores",
+      "source_page_id": "reputacion-de-vendedores",
+      "link_text": "utilizar el recurso /schedule",
+      "url": "https://developers.mercadolibre.com.co/es_ar/horario-de-despacho-por-logistica",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/producto-sincroniza-modifica-publicaciones",
+      "source_page_id": "producto-sincroniza-modifica-publicaciones",
+      "link_text": "variaciones",
+      "url": "https://developers.mercadolibre.com.co/es_ar/variaciones",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/producto-sincroniza-modifica-publicaciones",
+      "source_page_id": "producto-sincroniza-modifica-publicaciones",
+      "link_text": "si el ítem tiene una oferta activa",
+      "url": "https://developers.mercadolibre.com.co/es_ar/central-de-promociones#Consultar-ofertas-del-item",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/producto-sincroniza-modifica-publicaciones",
+      "source_page_id": "producto-sincroniza-modifica-publicaciones",
+      "link_text": "crear, actualizar o eliminar una descripc un ítem",
+      "url": "https://developers.mercadolibre.com.co/es_ar/descripcion-de-articulos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/producto-sincroniza-modifica-publicaciones",
+      "source_page_id": "producto-sincroniza-modifica-publicaciones",
+      "link_text": "Trabajar con imágenes",
+      "url": "https://developers.mercadolibre.com.co/es_ar/trabajar-con-imagenes",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/producto-sincroniza-modifica-publicaciones",
+      "source_page_id": "producto-sincroniza-modifica-publicaciones",
+      "link_text": "Tipos y exposición de publicaciones",
+      "url": "https://developers.mercadolibre.com.co/es_ar/tipos-de-publicacion-y-actualizaciones-de-articulos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/producto-sincroniza-modifica-publicaciones",
+      "source_page_id": "producto-sincroniza-modifica-publicaciones",
+      "link_text": "puedes republicar ítems",
+      "url": "https://developers.mercadolibre.com.co/es_ar/re-publica",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/stock-distribuido",
+      "source_page_id": "stock-distribuido",
+      "link_text": "Gestión de stock en convivencia Full y Flex",
+      "url": "https://developers.mercadolibre.com.co/es_ar/convivencia-full-y-flex",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/stock-distribuido",
+      "source_page_id": "stock-distribuido",
+      "link_text": "documentación de stock multi-origen",
+      "url": "https://developers.mercadolibre.com.co/es_ar/stock-multi-origen#gestion-de-stock-por-ubicacion",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/stock-distribuido",
+      "source_page_id": "stock-distribuido",
+      "link_text": "Stock multi-origen",
+      "url": "https://developers.mercadolibre.com.co/es_ar/stock-multi-origen",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/stock-multi-origen",
+      "source_page_id": "stock-multi-origen",
+      "link_text": "Stock distribuído",
+      "url": "https://developers.mercadolibre.com.co/es_ar/stock-distribuido",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/user-products",
+      "source_page_id": "user-products",
+      "link_text": "Precio por variación.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/precio-variacion",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/user-products",
+      "source_page_id": "user-products",
+      "link_text": "Stock distribuido.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/stock-distribuido",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/user-products",
+      "source_page_id": "user-products",
+      "link_text": "Stock multi origen.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/stock-multi-origen",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/user-products",
+      "source_page_id": "user-products",
+      "link_text": "PUT al recurso /items",
+      "url": "https://developers.mercadolibre.com.co/es_ar/producto-sincroniza-modifica-publicaciones",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/user-products",
+      "source_page_id": "user-products",
+      "link_text": "la guía de talles",
+      "url": "https://developers.mercadolibre.com.co/es_ar/guias-de-talles",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/user-products",
+      "source_page_id": "user-products",
+      "link_text": "“Stock distribuido”.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/stock-distribuido",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/user-products",
+      "source_page_id": "user-products",
+      "link_text": "endpoint de elegibilidad",
+      "url": "https://developers.mercadolibre.com.co/es_ar/precio-variacion#Elegibilidad-de-los-items-uptin",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/user-products",
+      "source_page_id": "user-products",
+      "link_text": "Stock Multiorigen.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/stock-multi-origen",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/user-products",
+      "source_page_id": "user-products",
+      "link_text": "Precio por variación",
+      "url": "https://developers.mercadolibre.com.co/es_ar/precio-variacion",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/validacion-de-guia-de-talles",
+      "source_page_id": "validacion-de-guia-de-talles",
+      "link_text": "ficha técnica",
+      "url": "https://developers.mercadolibre.com.co/es_ar/primeros-pasos-es#Consultar-ficha-tecnica",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/validacion-de-guia-de-talles",
+      "source_page_id": "validacion-de-guia-de-talles",
+      "link_text": "Atributos requeridos",
+      "url": "https://developers.mercadolibre.com.co/es_ar/atributos#atributos-obligatorios",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/validacion-de-guia-de-talles",
+      "source_page_id": "validacion-de-guia-de-talles",
+      "link_text": "variaciones",
+      "url": "https://developers.mercadolibre.com.co/es_ar/variaciones",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/validacion-de-guia-de-talles",
+      "source_page_id": "validacion-de-guia-de-talles",
+      "link_text": "requisito de calidad",
+      "url": "https://developers.mercadolibre.com.co/es_ar/calidad-de-publicaciones#Acciones-para-productos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/validacion-de-guia-de-talles",
+      "source_page_id": "validacion-de-guia-de-talles",
+      "link_text": "crear o modificar la publicación",
+      "url": "https://developers.mercadolibre.com.co/es_ar/guias-de-talles?nocache=true#Asociar-gu%C3%ADa-de-talles-a-la-publicaci%C3%B3n",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/validacion-de-guia-de-talles",
+      "source_page_id": "validacion-de-guia-de-talles",
+      "link_text": "crear una guía de talles",
+      "url": "https://developers.mercadolibre.com.co/es_ar/guias-de-talles#Crear-gu%C3%ADa-de-talles-personalizadas",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/validacion-de-guia-de-talles",
+      "source_page_id": "validacion-de-guia-de-talles",
+      "link_text": "ficha técnica del dominio",
+      "url": "https://developers.mercadolibre.com.co/es_ar/primeros-pasos-es#Consultar-ficha-t%C3%A9cnica-del-dominio",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/validacion-de-guia-de-talles",
+      "source_page_id": "validacion-de-guia-de-talles",
+      "link_text": "ficha técnica de la guía de talles",
+      "url": "https://developers.mercadolibre.com.co/es_ar/primeros-pasos-es#Consultar-ficha-tecnica",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/validacion-de-guia-de-talles",
+      "source_page_id": "validacion-de-guia-de-talles",
+      "link_text": "asociar una guía de talles a las publicaciones",
+      "url": "https://developers.mercadolibre.com.co/es_ar/guias-de-talles#Asociar-gu%C3%ADa-de-talles-a-la-publicaci%C3%B3n",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/validacion-de-guia-de-talles",
+      "source_page_id": "validacion-de-guia-de-talles",
+      "link_text": "motivos de validación",
+      "url": "https://developers.mercadolibre.com.co/es_ar/validacion-de-guia-de-talles#Validaciones-y-mensajes-de-error",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/validacion-de-guia-de-talles",
+      "source_page_id": "validacion-de-guia-de-talles",
+      "link_text": "Calidad de fotos de moda",
+      "url": "https://developers.mercadolibre.com.co/es_ar/calidad-de-fotos-de-moda",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/variaciones",
+      "source_page_id": "variaciones",
+      "link_text": "Atributos",
+      "url": "https://developers.mercadolibre.com.co/es_ar/atributos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/administra-areas-de-cobertura",
+      "source_page_id": "administra-areas-de-cobertura",
+      "link_text": "Publica servicios.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/publica-servicios",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/consultas-avanzadas-2",
+      "source_page_id": "consultas-avanzadas-2",
+      "link_text": "Gestiona preguntas y contactos",
+      "url": "https://developers.mercadolibre.com.co/es_ar/servicio-gestiona-contactos-y-visitas",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/elige-tipo-de-servicio",
+      "source_page_id": "elige-tipo-de-servicio",
+      "link_text": "jerarquía completa de categorías",
+      "url": "https://developers.mercadolibre.com.co/es_ar/descarga-de-categorias",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/elige-tipo-de-servicio",
+      "source_page_id": "elige-tipo-de-servicio",
+      "link_text": "nuestra herramienta de predicción de categorías",
+      "url": "https://developers.mercadolibre.com.co/es_ar/api-prediccion-categorias",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/elige-tipo-de-servicio",
+      "source_page_id": "elige-tipo-de-servicio",
+      "link_text": "Administra áreas de cobertura.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/administra-areas-de-cobertura",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/guia-para-servicios",
+      "source_page_id": "guia-para-servicios",
+      "link_text": "Autenticación y Autorización",
+      "url": "https://developers.mercadolibre.com.co/es_ar/autenticacion-y-autorizacion/",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-servicios-vis",
+      "source_page_id": "publica-servicios-vis",
+      "link_text": "Descripciones de Artículos",
+      "url": "https://developers.mercadolibre.com.co/es_ar/descripcion-de-articulos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-servicios-vis",
+      "source_page_id": "publica-servicios-vis",
+      "link_text": "Para acceder a una sugerencia de categorías, lee este artículo",
+      "url": "https://developers.mercadolibre.com.co/es_ar/elige-tipo-de-servicio",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-servicios-vis",
+      "source_page_id": "publica-servicios-vis",
+      "link_text": "Sabrás qué ID enviar llamando a nuestro recurso Monedas",
+      "url": "https://developers.mercadolibre.com.co/es_ar/elige-tipo-de-servicio",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-servicios-vis",
+      "source_page_id": "publica-servicios-vis",
+      "link_text": ". Accede a nuestra guía para saber qué tipo de publicación es más conveniente para su servicio.",
+      "url": "https://developers.mercadolibre.com.co/pt_br/validador-de-publicacoes",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-servicios-vis",
+      "source_page_id": "publica-servicios-vis",
+      "link_text": "tutorial de autenticación",
+      "url": "https://developers.mercadolibre.com.co/es_ar/autenticacion-y-autorizacion/",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-servicios-vis",
+      "source_page_id": "publica-servicios-vis",
+      "link_text": "por favor consulta la sección generar usuarios de test aquí",
+      "url": "https://developers.mercadolibre.com.co/es_ar/validador-de-publicaciones",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-servicios-vis",
+      "source_page_id": "publica-servicios-vis",
+      "link_text": "será mejor que consultes este tutorial de validación de artículos, que es fácil y rápido",
+      "url": "https://developers.mercadolibre.com.co/es_ar/validador-de-publicaciones",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-servicios-vis",
+      "source_page_id": "publica-servicios-vis",
+      "link_text": "Sincronização de publicações",
+      "url": "https://developers.mercadolibre.com.co/pt_br/servico-sincronizacao-de-publicacoes",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/servicio-sincroniza-publicaciones",
+      "source_page_id": "servicio-sincroniza-publicaciones",
+      "link_text": "consulta nuestro artículo sobre descripciones",
+      "url": "https://developers.mercadolibre.com.co/es_ar/descripcion-de-articulos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/servicio-sincroniza-publicaciones",
+      "source_page_id": "servicio-sincroniza-publicaciones",
+      "link_text": "consulta nuestro tutorial Trabajar con imágenes",
+      "url": "https://developers.mercadolibre.com.co/es_ar/trabajar-con-imagenes",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/servicio-sincroniza-publicaciones",
+      "source_page_id": "servicio-sincroniza-publicaciones",
+      "link_text": "consulta nuestro artículo sobre volver a publicar para hacerlo rápido.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/re-publica",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/servicio-sincroniza-publicaciones",
+      "source_page_id": "servicio-sincroniza-publicaciones",
+      "link_text": "Gestiona contactos y visitas",
+      "url": "https://developers.mercadolibre.com.co/es_ar/servicio-gestiona-contactos-y-visitas",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/calidad-de-publicaciones-vehiculos",
+      "source_page_id": "calidad-de-publicaciones-vehiculos",
+      "link_text": "completar los atributos técnicos específicos del ítem.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/atributos#",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/categorias-y-atributos",
+      "source_page_id": "categorias-y-atributos",
+      "link_text": "Localiza vehículos",
+      "url": "https://developers.mercadolibre.com.co/es_ar/localizacion-de-vehiculos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/consulta-usuarios",
+      "source_page_id": "consulta-usuarios",
+      "link_text": "registrar tu aplicación",
+      "url": "https://developers.mercadolibre.com.co/es_ar/registra-tu-aplicacion",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/consulta-usuarios",
+      "source_page_id": "consulta-usuarios",
+      "link_text": "usuario de test",
+      "url": "https://developers.mercadolibre.com.co/es_ar/realiza-pruebas",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/credits-motors",
+      "source_page_id": "credits-motors",
+      "link_text": "tópico leads credits",
+      "url": "https://developers.mercadolibre.com.co/es_ar/productos-recibe-notificaciones#Leads-credits",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/vehiculos-gestiona-paquetes",
+      "source_page_id": "vehiculos-gestiona-paquetes",
+      "link_text": "Publicación de vehículos",
+      "url": "https://developers.mercadolibre.com.co/es_ar/publica-vehiculos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/vehiculos-gestiona-paquetes",
+      "source_page_id": "vehiculos-gestiona-paquetes",
+      "link_text": "Publica vehículos",
+      "url": "https://developers.mercadolibre.com.co/es_ar/publica-vehiculos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/vehiculos-gestiona-preguntas-y-contactos",
+      "source_page_id": "vehiculos-gestiona-preguntas-y-contactos",
+      "link_text": "guía de Gestión de preguntas y respuestas",
+      "url": "https://developers.mercadolibre.com.co/es_ar/gestiona-preguntas-respuestas",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/introduccion-vehiculos",
+      "source_page_id": "introduccion-vehiculos",
+      "link_text": "PRIMEROS PASOS",
+      "url": "https://developers.mercadolibre.com.co/es_ar/crea-una-aplicacion-en-mercado-libre-es",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/localizacion-de-vehiculos",
+      "source_page_id": "localizacion-de-vehiculos",
+      "link_text": "Gestiona paquetes",
+      "url": "https://developers.mercadolibre.com.co/es_ar/vehiculos-gestiona-paquetes",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-vehiculos",
+      "source_page_id": "publica-vehiculos",
+      "link_text": "agregar la descripción al ítem publicado",
+      "url": "https://developers.mercadolibre.com.co/es_ar/descripcion-de-articulos#Cargar-la-descripci%C3%B3n-en-un-%C3%ADtem",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-vehiculos",
+      "source_page_id": "publica-vehiculos",
+      "link_text": "Por favor, lee más sobre este tema para conocer qué tipo de imágenes se permiten y cómo trabajar con ellas.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/trabajar-con-imagenes",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-vehiculos",
+      "source_page_id": "publica-vehiculos",
+      "link_text": "Ve ejemplos del recurso de la moneda aquí",
+      "url": "https://developers.mercadolibre.com.co/es_ar/ubicacion-y-monedas",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-vehiculos",
+      "source_page_id": "publica-vehiculos",
+      "link_text": "qué tipo de publicación es más conveniente para tu anuncio",
+      "url": "https://developers.mercadolibre.com.co/es_ar/vehiculos-gestiona-paquetes",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-vehiculos",
+      "source_page_id": "publica-vehiculos",
+      "link_text": "visite este enlace",
+      "url": "https://developers.mercadolibre.com.co/es_ar/localizacion-de-vehiculos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-vehiculos",
+      "source_page_id": "publica-vehiculos",
+      "link_text": "por favor regresa al tutorial de autenticación",
+      "url": "https://developers.mercadolibre.com.co/es_ar/autenticacion-y-autorizacion/",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-vehiculos",
+      "source_page_id": "publica-vehiculos",
+      "link_text": "por favor consulta la sección generar usuarios de test aquí",
+      "url": "https://developers.mercadolibre.com.co/es_ar/validador-de-publicaciones",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/publica-vehiculos",
+      "source_page_id": "publica-vehiculos",
+      "link_text": "Sincroniza publicaciones",
+      "url": "https://developers.mercadolibre.com.co/es_ar/vehiculos-sincroniza-publicaciones",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/vehiculos-sincroniza-publicaciones",
+      "source_page_id": "vehiculos-sincroniza-publicaciones",
+      "link_text": "WITH_FINANCING_OPTIONS",
+      "url": "https://developers.mercadolibre.com.co/es_co/%E2%80%9Chttps://developers.mercadolibre.com.ar/es_ar/publica-vehiculos#Definicion-de-atributos:~:text=Central%20de%20Venezuela.-,Opciones%20de%20Financiamiento,-Importante%3A%E2%80%9D",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/autenticacion-y-autorizacion",
+      "source_page_id": "autenticacion-y-autorizacion",
+      "link_text": "la seguridad de tu desarrollo",
+      "url": "https://developers.mercadolibre.com.co/es_ar/recomendaciones-de-autorizacion-y-token",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/autenticacion-y-autorizacion",
+      "source_page_id": "autenticacion-y-autorizacion",
+      "link_text": "Client Secret",
+      "url": "https://developers.mercadolibre.com.co/es_ar/registra-tu-aplicacion#Editar",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/autenticacion-y-autorizacion",
+      "source_page_id": "autenticacion-y-autorizacion",
+      "link_text": "o el IP esta bloqueado, o faltam scopes",
+      "url": "https://developers.mercadolibre.com.co/es_ar/error-403",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/autenticacion-y-autorizacion",
+      "source_page_id": "autenticacion-y-autorizacion",
+      "link_text": "la aplicación está bloqueada",
+      "url": "https://developers.mercadolibre.com.co/es_ar/bloqueo-de-aplicaciones",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/autenticacion-y-autorizacion",
+      "source_page_id": "autenticacion-y-autorizacion",
+      "link_text": "refresh_token",
+      "url": "https://developers.mercadolibre.com.co/es_ar/autenticacion-y-autorizacion?nocache=true#Refresh-token",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/autenticacion-y-autorizacion",
+      "source_page_id": "autenticacion-y-autorizacion",
+      "link_text": "usuarios que otorgaron permiso a tu aplicación",
+      "url": "https://developers.mercadolibre.com.co/es_ar/gestiona-tus-aplicaciones#Usuarios-que-le-dieron-permisos-a-tu-aplicaci%C3%B3n",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/autenticacion-y-autorizacion",
+      "source_page_id": "autenticacion-y-autorizacion",
+      "link_text": "revocar la autorización de un usuario a tu aplicación",
+      "url": "https://developers.mercadolibre.com.co/es_ar/gestiona-tus-aplicaciones#Revoca-la-autorizaci%C3%B3n-del-usuario",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/consideraciones-de-diseno",
+      "source_page_id": "consideraciones-de-diseno",
+      "link_text": "Registra tu aplicación",
+      "url": "https://developers.mercadolibre.com.co/es_ar/registra-tu-aplicacion",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/crea-una-aplicacion-en-mercado-libre-es",
+      "source_page_id": "crea-una-aplicacion-en-mercado-libre-es",
+      "link_text": "Colombia",
+      "url": "https://developers.mercadolibre.com.co/devcenter/",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/crea-una-aplicacion-en-mercado-libre-es",
+      "source_page_id": "crea-una-aplicacion-en-mercado-libre-es",
+      "link_text": "DevCenter",
+      "url": "https://developers.mercadolibre.com.co/devcenter",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/crea-una-aplicacion-en-mercado-libre-es",
+      "source_page_id": "crea-una-aplicacion-en-mercado-libre-es",
+      "link_text": "autenticación y autorización",
+      "url": "https://developers.mercadolibre.com.co/es_ar/autenticacion-y-autorizacion",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/crea-una-aplicacion-en-mercado-libre-es",
+      "source_page_id": "crea-una-aplicacion-en-mercado-libre-es",
+      "link_text": "Autenticación y Seguridad",
+      "url": "https://developers.mercadolibre.com.co/es_ar/autenticacion-y-autorizacion",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/crea-una-aplicacion-en-mercado-libre-es",
+      "source_page_id": "crea-una-aplicacion-en-mercado-libre-es",
+      "link_text": "dieron permisos a tu aplicación.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/gestiona-tus-aplicaciones#Usuarios-que-le-dieron-permisos-a-tu-aplicaci%C3%B3n",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/crea-una-aplicacion-en-mercado-libre-es",
+      "source_page_id": "crea-una-aplicacion-en-mercado-libre-es",
+      "link_text": "programa de certificación",
+      "url": "https://developers.mercadolibre.com.co/es_ar/developer-partner-program",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/error-403",
+      "source_page_id": "error-403",
+      "link_text": "Ver datos privados de tu aplicación",
+      "url": "https://developers.mercadolibre.com.co/es_ar/gestiona-tus-aplicaciones#Datos-privados-de-tu-aplicacion",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/error-403",
+      "source_page_id": "error-403",
+      "link_text": "Conocer estado de un usuario",
+      "url": "https://developers.mercadolibre.com.co/es_ar/producto-consulta-usuarios%20target=",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/error-403",
+      "source_page_id": "error-403",
+      "link_text": "Conoce cómo gestionar IP de una app",
+      "url": "https://developers.mercadolibre.com.co/es_ar/gestionar-ips-de-una-aplicacion?nocache=true",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/error-403",
+      "source_page_id": "error-403",
+      "link_text": "scopes requeridos",
+      "url": "https://developers.mercadolibre.com.co/es_ar/crea-una-aplicacion-en-mercado-libre-es#Consideraciones-sobre-scopes",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/error-403",
+      "source_page_id": "error-403",
+      "link_text": "access tokens individuales",
+      "url": "https://developers.mercadolibre.com.co/pt_br/autenticacao-e-autorizacao#Refresh-token",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/error-403",
+      "source_page_id": "error-403",
+      "link_text": "tener concluído el proceso de validación de datos",
+      "url": "https://developers.mercadolibre.com.co/es_ar/validar-datos-de-vendedores",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/gestionar-ips-de-una-aplicacion",
+      "source_page_id": "gestionar-ips-de-una-aplicacion",
+      "link_text": "devcenter",
+      "url": "https://developers.mercadolibre.com.co/devcenter/",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/realiza-pruebas",
+      "source_page_id": "realiza-pruebas",
+      "link_text": "guía de Autenticación y Autorización",
+      "url": "https://developers.mercadolibre.com.co/es_ar/autenticacion-y-autorizacion/",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/realiza-pruebas",
+      "source_page_id": "realiza-pruebas",
+      "link_text": "Colombia",
+      "url": "https://developers.mercadolibre.com.co/support",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/validador-de-publicaciones",
+      "source_page_id": "validador-de-publicaciones",
+      "link_text": "Realiza pruebas",
+      "url": "https://developers.mercadolibre.com.co/es_ar/realiza-pruebas",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/que-es-brand-protection-program",
+      "source_page_id": "que-es-brand-protection-program",
+      "link_text": "Miembros del programa",
+      "url": "https://developers.mercadolibre.com.co/es_ar/miembros-del-programa?nocache=true",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/atributos",
+      "source_page_id": "atributos",
+      "link_text": "categoría",
+      "url": "https://developers.mercadolibre.com.co/es_ar/categoriza-productos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/atributos",
+      "source_page_id": "atributos",
+      "link_text": "Variaciones",
+      "url": "https://developers.mercadolibre.com.co/es_ar/variaciones",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/atributos",
+      "source_page_id": "atributos",
+      "link_text": "Identificadores de productos",
+      "url": "https://developers.mercadolibre.com.co/es_ar/identificadores-de-productos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/conoce-las-novedades-que-reciben-los-vendedores",
+      "source_page_id": "conoce-las-novedades-que-reciben-los-vendedores",
+      "link_text": "países, publicaciones, envíos, atención, facturación y eventos.",
+      "url": "https://developers.mercadolibre.com.co/es_co/AGREGAR_LINK",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/producto-consulta-usuarios",
+      "source_page_id": "producto-consulta-usuarios",
+      "link_text": "registrar tu aplicación",
+      "url": "https://developers.mercadolibre.com.co/es_ar/registra-tu-aplicacion",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/producto-consulta-usuarios",
+      "source_page_id": "producto-consulta-usuarios",
+      "link_text": "usuarios test",
+      "url": "https://developers.mercadolibre.com.co/es_ar/realiza-pruebas",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/producto-consulta-usuarios",
+      "source_page_id": "producto-consulta-usuarios",
+      "link_text": "tienes un token",
+      "url": "https://developers.mercadolibre.com.co/es_ar/autenticacion-y-autorizacion",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/producto-consulta-usuarios",
+      "source_page_id": "producto-consulta-usuarios",
+      "link_text": "Tiendas Oficiales",
+      "url": "https://developers.mercadolibre.com.co/es_ar/tiendas-oficiales",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/diagnostico-imagenes",
+      "source_page_id": "diagnostico-imagenes",
+      "link_text": "Moderaciones de Imágenes",
+      "url": "https://developers.mercadolibre.com.co/es_ar/moderaciones-de-imagenes",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/direcciones-del-usuario",
+      "source_page_id": "direcciones-del-usuario",
+      "link_text": "Marcadores",
+      "url": "https://developers.mercadolibre.com.co/es_ar/marcadores",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias",
+      "source_page_id": "dominios-y-categorias",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias#modal1",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias",
+      "source_page_id": "dominios-y-categorias",
+      "link_text": "Go back",
+      "url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias#close",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias",
+      "source_page_id": "dominios-y-categorias",
+      "link_text": "X",
+      "url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias#close",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias",
+      "source_page_id": "dominios-y-categorias",
+      "link_text": "Leer más.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/categoriza-productos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias",
+      "source_page_id": "dominios-y-categorias",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias#modal4",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias",
+      "source_page_id": "dominios-y-categorias",
+      "link_text": "Leer más.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/tipos-de-publicacion-y-actualizaciones-de-articulos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias",
+      "source_page_id": "dominios-y-categorias",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias#modal5",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias",
+      "source_page_id": "dominios-y-categorias",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias#modal6",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias",
+      "source_page_id": "dominios-y-categorias",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias#modal7",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias",
+      "source_page_id": "dominios-y-categorias",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias#modal8",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias",
+      "source_page_id": "dominios-y-categorias",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias#modal9",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias",
+      "source_page_id": "dominios-y-categorias",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias#modal10",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias",
+      "source_page_id": "dominios-y-categorias",
+      "link_text": "Leer más.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/inmuebles-gestiona-paquetes",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias",
+      "source_page_id": "dominios-y-categorias",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/dominios-y-categorias#modal3",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/items-y-busquedas",
+      "source_page_id": "items-y-busquedas",
+      "link_text": "requisitos más importante de calidad",
+      "url": "https://developers.mercadolibre.com.co/es_ar/calidad-de-publicaciones",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/items-y-busquedas",
+      "source_page_id": "items-y-busquedas",
+      "link_text": "documentación",
+      "url": "https://developers.mercadolibre.com.co/es_ar/atributos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/miembros-del-programa",
+      "source_page_id": "miembros-del-programa",
+      "link_text": "Publicaciones denunciadas",
+      "url": "https://developers.mercadolibre.com.co/es_ar/publicaciones-denunciadas?nocache=true",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/moderaciones-con-pausado",
+      "source_page_id": "moderaciones-con-pausado",
+      "link_text": "Diagnóstico de imágenes",
+      "url": "https://developers.mercadolibre.com.co/es_ar/diagnostico-imagenes?nocache=true",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/moderaciones-de-imagenes",
+      "source_page_id": "moderaciones-de-imagenes",
+      "link_text": "API de diagnóstico de imágenes",
+      "url": "https://developers.mercadolibre.com.co/diagnostico-imagenes?nocache=true",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones",
+      "source_page_id": "pedidos-y-opiniones",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones#modal1",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones",
+      "source_page_id": "pedidos-y-opiniones",
+      "link_text": "Go back",
+      "url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones#close",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones",
+      "source_page_id": "pedidos-y-opiniones",
+      "link_text": "X",
+      "url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones#close",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones",
+      "source_page_id": "pedidos-y-opiniones",
+      "link_text": "Leer más.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/gestiona-ventas",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones",
+      "source_page_id": "pedidos-y-opiniones",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones#modal2",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones",
+      "source_page_id": "pedidos-y-opiniones",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones#modal3",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones",
+      "source_page_id": "pedidos-y-opiniones",
+      "link_text": "Learn more.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/gestiona-ventas",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones",
+      "source_page_id": "pedidos-y-opiniones",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones#modal4",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones",
+      "source_page_id": "pedidos-y-opiniones",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones#modal5",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones",
+      "source_page_id": "pedidos-y-opiniones",
+      "link_text": "Leer más.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/categoriza-productos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones",
+      "source_page_id": "pedidos-y-opiniones",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones#modal6",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones",
+      "source_page_id": "pedidos-y-opiniones",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones#modal7",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones",
+      "source_page_id": "pedidos-y-opiniones",
+      "link_text": "POST",
+      "url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones#modal7-1",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones",
+      "source_page_id": "pedidos-y-opiniones",
+      "link_text": "PUT",
+      "url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones#modal9",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones",
+      "source_page_id": "pedidos-y-opiniones",
+      "link_text": "POST",
+      "url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones#modal10",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones",
+      "source_page_id": "pedidos-y-opiniones",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones#modal11",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones",
+      "source_page_id": "pedidos-y-opiniones",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/pedidos-y-opiniones#modal12",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/preguntas-y-respuestas",
+      "source_page_id": "preguntas-y-respuestas",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/preguntas-y-respuestas#modal1",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/preguntas-y-respuestas",
+      "source_page_id": "preguntas-y-respuestas",
+      "link_text": "Go back",
+      "url": "https://developers.mercadolibre.com.co/es_co/preguntas-y-respuestas#close",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/preguntas-y-respuestas",
+      "source_page_id": "preguntas-y-respuestas",
+      "link_text": "X",
+      "url": "https://developers.mercadolibre.com.co/es_co/preguntas-y-respuestas#close",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/preguntas-y-respuestas",
+      "source_page_id": "preguntas-y-respuestas",
+      "link_text": "Leer más.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/gestiona-preguntas-respuestas",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/preguntas-y-respuestas",
+      "source_page_id": "preguntas-y-respuestas",
+      "link_text": "POST",
+      "url": "https://developers.mercadolibre.com.co/es_co/preguntas-y-respuestas#modal2",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/preguntas-y-respuestas",
+      "source_page_id": "preguntas-y-respuestas",
+      "link_text": "POST",
+      "url": "https://developers.mercadolibre.com.co/es_co/preguntas-y-respuestas#modal3",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/preguntas-y-respuestas",
+      "source_page_id": "preguntas-y-respuestas",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/preguntas-y-respuestas#modal4",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/preguntas-y-respuestas",
+      "source_page_id": "preguntas-y-respuestas",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/preguntas-y-respuestas#modal5",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/preguntas-y-respuestas",
+      "source_page_id": "preguntas-y-respuestas",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/preguntas-y-respuestas#modal6",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/ubicacion-y-monedas",
+      "source_page_id": "ubicacion-y-monedas",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/ubicacion-y-monedas#modal1",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/ubicacion-y-monedas",
+      "source_page_id": "ubicacion-y-monedas",
+      "link_text": "Go back",
+      "url": "https://developers.mercadolibre.com.co/es_co/ubicacion-y-monedas#close",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/ubicacion-y-monedas",
+      "source_page_id": "ubicacion-y-monedas",
+      "link_text": "X",
+      "url": "https://developers.mercadolibre.com.co/es_co/ubicacion-y-monedas#close",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/ubicacion-y-monedas",
+      "source_page_id": "ubicacion-y-monedas",
+      "link_text": "Leer más.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/localiza-inmuebles",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/ubicacion-y-monedas",
+      "source_page_id": "ubicacion-y-monedas",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/ubicacion-y-monedas#modal2",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/ubicacion-y-monedas",
+      "source_page_id": "ubicacion-y-monedas",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/ubicacion-y-monedas#modal3",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/ubicacion-y-monedas",
+      "source_page_id": "ubicacion-y-monedas",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/ubicacion-y-monedas#modal4",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/ubicacion-y-monedas",
+      "source_page_id": "ubicacion-y-monedas",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/ubicacion-y-monedas#modal5",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/ubicacion-y-monedas",
+      "source_page_id": "ubicacion-y-monedas",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/ubicacion-y-monedas#modal6",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/ubicacion-y-monedas",
+      "source_page_id": "ubicacion-y-monedas",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/ubicacion-y-monedas#modal7",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/ubicacion-y-monedas",
+      "source_page_id": "ubicacion-y-monedas",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/ubicacion-y-monedas#modal8",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/ubicacion-y-monedas",
+      "source_page_id": "ubicacion-y-monedas",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/ubicacion-y-monedas#modal9",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones",
+      "source_page_id": "usuarios-y-aplicaciones",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones#modal1",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones",
+      "source_page_id": "usuarios-y-aplicaciones",
+      "link_text": "PUT",
+      "url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones#modal1-1",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones",
+      "source_page_id": "usuarios-y-aplicaciones",
+      "link_text": "Go back",
+      "url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones#close",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones",
+      "source_page_id": "usuarios-y-aplicaciones",
+      "link_text": "X",
+      "url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones#close",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones",
+      "source_page_id": "usuarios-y-aplicaciones",
+      "link_text": "Leer más.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/producto-consulta-usuarios",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones",
+      "source_page_id": "usuarios-y-aplicaciones",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones#modal2",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones",
+      "source_page_id": "usuarios-y-aplicaciones",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones#modal3",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones",
+      "source_page_id": "usuarios-y-aplicaciones",
+      "link_text": "Leer más.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/direcciones-del-usuario",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones",
+      "source_page_id": "usuarios-y-aplicaciones",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones#modal4",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones",
+      "source_page_id": "usuarios-y-aplicaciones",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones#modal5",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones",
+      "source_page_id": "usuarios-y-aplicaciones",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones#modal6",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones",
+      "source_page_id": "usuarios-y-aplicaciones",
+      "link_text": "Leer más.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/tiendas-oficiales",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones",
+      "source_page_id": "usuarios-y-aplicaciones",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones#modal7",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones",
+      "source_page_id": "usuarios-y-aplicaciones",
+      "link_text": "POST",
+      "url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones#modal7-1",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones",
+      "source_page_id": "usuarios-y-aplicaciones",
+      "link_text": "Leer más.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/inmuebles-gestiona-paquetes",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones",
+      "source_page_id": "usuarios-y-aplicaciones",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones#modal8",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones",
+      "source_page_id": "usuarios-y-aplicaciones",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones#modal12",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones",
+      "source_page_id": "usuarios-y-aplicaciones",
+      "link_text": "Leer más.",
+      "url": "https://developers.mercadolibre.com.co/es_ar/tipos-de-publicacion-y-actualizaciones-de-articulos",
+      "locale_scope": "outside_es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones",
+      "source_page_id": "usuarios-y-aplicaciones",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones#modal13",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones",
+      "source_page_id": "usuarios-y-aplicaciones",
+      "link_text": "DELETE",
+      "url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones#modal14",
+      "locale_scope": "es_co"
+    },
+    {
+      "source_url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones",
+      "source_page_id": "usuarios-y-aplicaciones",
+      "link_text": "GET",
+      "url": "https://developers.mercadolibre.com.co/es_co/usuarios-y-aplicaciones#modal15",
+      "locale_scope": "es_co"
+    }
+  ]
+}

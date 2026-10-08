@@ -1,0 +1,7 @@
+# Generated Markdown uses two trailing spaces as intentional hard line breaks.
+docs/markdown/*.md whitespace=-blank-at-eol
+docs/temas/*.md whitespace=-blank-at-eol
+.planning/**/*.md whitespace=-blank-at-eol
+
+# Treat the complete manual as a binary document in Git diffs.
+*.pdf binary

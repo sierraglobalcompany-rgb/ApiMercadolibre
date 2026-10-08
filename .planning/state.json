@@ -1,0 +1,12 @@
+{
+  "contract": "1.0.0",
+  "flavor": "core",
+  "milestone": null,
+  "phases": [],
+  "next": {
+    "command": "$gsd-verify-work 4",
+    "label": "Confirm end-to-end behavior and complete phase 04",
+    "reason": "Phase 04 outputs are built; final UAT and publication are in progress"
+  },
+  "updated_at": "2026-10-08T23:57:04Z"
+}

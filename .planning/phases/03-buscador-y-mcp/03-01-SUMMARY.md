@@ -20,6 +20,31 @@ key-files:
 key-decisions:
   - "El MCP envuelve consultas de Graphify para devolver la URL oficial y la fecha de captura en cada consulta."
 requirements-completed: [QRY-01, QRY-02, QRY-03, AI-01, AI-02]
+coverage:
+  - id: Q1
+    description: "Buscar por texto, método y ruta desde el navegador local."
+    requirement: QRY-01
+    verification:
+      - kind: other
+        ref: "Navegador interno: GET /users/me, filtros GET/ruta y coincidencia de términos"
+        status: pass
+    human_judgment: false
+  - id: Q2
+    description: "La búsqueda ignora tildes y conserva fragmento, ficha, fuente y fecha."
+    requirement: QRY-02
+    verification:
+      - kind: other
+        ref: "Navegador interno: autenticación y autenticacion mostraron la misma lista principal; resultados incluyen fuente/captura"
+        status: pass
+    human_judgment: false
+  - id: Q3
+    description: "El MCP consulta Graphify y devuelve las referencias oficiales con fechas."
+    requirement: AI-02
+    verification:
+      - kind: other
+        ref: "Cliente MCP stdio: list_tools y query_graph GET /users/me autenticación; respuesta incluye URL oficial/captured_at"
+        status: pass
+    human_judgment: false
 completed: 2026-10-08
 status: complete
 ---
